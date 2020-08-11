@@ -1,1 +1,14 @@
-* This is a repo for my notes of various sorts
+#+TITLE:     Home
+
+* SCHOOL
+** Subjects
+  [[./school/english.org][English]]
+  [[./school/german    German]]
+  [[./school/geography.org][Geography]]
+  [[./school/cs.org][Computer Science]]
+ [[./school/physics.org][ Physics]] 
+  
+  
+* PERSONAL
+
+
