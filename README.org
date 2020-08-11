@@ -3,11 +3,11 @@
 * SCHOOL
 ** Subjects
   [[./school/english.org][English]]
-  [[./school/german    German]]
+  [[./school/german.org][German]] 
   [[./school/geography.org][Geography]]
   [[./school/cs.org][Computer Science]]
  [[./school/physics.org][ Physics]] 
-  
+  [[https://onedrive.live.com/redir?resid=8685C516E7ADFF9%215855&page=Edit&wd=target%28Quick%20Notes.one%7C3aec350e-2566-4ae2-843b-8db94109f7f5%2FUntitled%20Page%7C75d55356-f280-4f0b-8745-1bdc4668c361%2F%29][Maths]] 
   
 * PERSONAL
 
