@@ -3,5 +3,8 @@
 * INBOX
 * SCHOOL
 ** PROGRESS Learn Org-Mode
+DEADLINE: <2020-08-19 Wed>
 ** PROGRESS Setup Org-Mode for skewl
+DEADLINE: <2020-08-19 Wed>
+** DONE Setup remote desktop for possibly using old laptop for org-mode
 * PERSONAL

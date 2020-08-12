@@ -1,1 +1,4 @@
 #+TITLE: Geography
+
+* TODO outline course
+DEADLINE: <2020-08-19 Wed>

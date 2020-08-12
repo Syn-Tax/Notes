@@ -1,1 +1,4 @@
 #+TITLE: Computer Science
+
+* IA
+TODO make this better
