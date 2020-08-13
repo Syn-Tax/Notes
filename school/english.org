@@ -1,3 +1,6 @@
 #+TITLE: English Language & Literature
 
-* TODO outline course
+* Ghosts
+* The Crucible
+* Poetry
+* The Great Gatsby
