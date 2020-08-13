@@ -1,3 +1,4 @@
 #+TITLE: Physics
 
-* TODO Example todo 2
+* TODO Outline Course
+DEADLINE: <2020-08-19 Wed>
