@@ -32,11 +32,12 @@ SCHEDULED: <2020-08-23 Sun 19:45-20:00 .+1w>
 - [ ] write Weekly Review
 
 ** TODO Cream Hands Aveeno
-SCHEDULED: <2020-08-20 Thu 17:59 .+1h>
+SCHEDULED: <2020-08-20 Thu 18:59 .+1h>
 :PROPERTIES:
-:LAST_REPEAT: [2020-08-20 Thu 16:59]
+:LAST_REPEAT: [2020-08-20 Thu 17:59]
 :WILD_NOTIFIER_NOTIFY_BEFORE: 5 1
 :END:
+- State "DONE"       from "TODO"       [2020-08-20 Thu 17:59]
 - State "DONE"       from "TODO"       [2020-08-20 Thu 16:59]
 - State "DONE"       from "TODO"       [2020-08-20 Thu 16:00]
 - State "DONE"       from "TODO"       [2020-08-20 Thu 15:01]
