@@ -1,10 +1,48 @@
 #+TITLE: TODOs
+#+STARTUP: fold
 
-* INBOX
-* SCHOOL
-** DONE Learn Org-Mode
-DEADLINE: <2020-08-19 Wed>
-** DONE Setup Org-Mode for skewl
-DEADLINE: <2020-08-19 Wed>
-** DONE Setup remote desktop for possibly using old laptop for org-mode
-* PERSONAL
+* Recurring
+** TODO Morning [0/4]
+SCHEDULED: <2020-08-21 Fri 08:00-09:00 .+1d>
+:PROPERTIES:
+:RESET_CHECK_BOXES: t
+:LAST_REPEAT: [2020-08-20 Thu 10:51]
+:END:
+- State "DONE"       from "TODO"       [2020-08-20 Thu 10:51]
+- [ ] Take Oralair
+- [ ] Eat Breakfast
+- [ ] Shower
+- [ ] write todos of sorts
+** TODO Evening [0/3]
+SCHEDULED: <2020-08-20 Thu 19:45-20:00 +1d>
+:PROPERTIES:
+:RESET_CHECK_BOXES: t
+:LAST_REPEAT: [2020-08-20 Thu 10:51]
+:END:
+- State "DONE"       from "TODO"       [2020-08-20 Thu 10:51]
+- [ ] Write daily review
+- [ ] Plan as much as possible for next day
+- [ ] Put cream on hands
+
+** TODO Weekend [0/1]
+SCHEDULED: <2020-08-23 Sun 19:45-20:00 .+1w>
+:PROPERTIES:
+:RESET_CHECK_BOXES: t
+:END:
+- [ ] write Weekly Review
+
+** TODO Cream Hands Aveeno
+SCHEDULED: <2020-08-20 Thu 16:01 .+1h>
+:PROPERTIES:
+:LAST_REPEAT: [2020-08-20 Thu 15:01]
+:WILD_NOTIFIER_NOTIFY_BEFORE: 5 1
+:END:
+- State "DONE"       from "TODO"       [2020-08-20 Thu 15:01]
+- State "DONE"       from "TODO"       [2020-08-20 Thu 14:02]
+- State "DONE"       from "TODO"       [2020-08-20 Thu 13:03]
+
+* 2020
+** Aug
+*** 20
+**** TODO Gelcoat Boat
+DEADLINE: <2020-08-20 Thu 18:00>
