@@ -3,25 +3,25 @@
 
 * Recurring
 ** TODO Morning [0/4]
-SCHEDULED: <2020-08-21 Fri 08:00-09:00 .+1d>
+SCHEDULED: <2020-08-22 Sat 08:00-09:00 .+1d>
 :PROPERTIES:
 :RESET_CHECK_BOXES: t
-:LAST_REPEAT: [2020-08-20 Thu 10:51]
+:LAST_REPEAT: [2020-08-21 Fri 10:33]
 :END:
+- State "DONE"       from "TODO"       [2020-08-21 Fri 10:33]
 - State "DONE"       from "TODO"       [2020-08-20 Thu 10:51]
 - [ ] Take Oralair
 - [ ] Eat Breakfast
 - [ ] Shower
 - [ ] write todos of sorts
-** TODO Evening [0/3]
-SCHEDULED: <2020-08-20 Thu 19:45-20:00 +1d>
+** TODO Evening [0/2]
+SCHEDULED: <2020-08-21 Fri 19:45-20:00 +1d>
 :PROPERTIES:
 :RESET_CHECK_BOXES: t
-:LAST_REPEAT: [2020-08-20 Thu 10:51]
+:LAST_REPEAT: [2020-08-20 Thu 20:21]
 :END:
-- State "DONE"       from "TODO"       [2020-08-20 Thu 10:51]
+- State "DONE"       from "TODO"       [2020-08-20 Thu 20:21]
 - [ ] Write daily review
-- [ ] Plan as much as possible for next day
 - [ ] Put cream on hands
 
 ** TODO Weekend [0/1]
@@ -32,11 +32,17 @@ SCHEDULED: <2020-08-23 Sun 19:45-20:00 .+1w>
 - [ ] write Weekly Review
 
 ** TODO Cream Hands Aveeno
-SCHEDULED: <2020-08-20 Thu 18:59 .+1h>
+SCHEDULED: <2020-08-22 Sat 17:00 ++1h>
 :PROPERTIES:
-:LAST_REPEAT: [2020-08-20 Thu 17:59]
+:LAST_REPEAT: [2020-08-22 Sat 16:00]
 :WILD_NOTIFIER_NOTIFY_BEFORE: 5 1
 :END:
+- State "DONE"       from "TODO"       [2020-08-22 Sat 16:00]
+- State "DONE"       from "TODO"       [2020-08-22 Sat 14:50]
+- State "DONE"       from "TODO"       [2020-08-21 Fri 14:04]
+- State "DONE"       from "TODO"       [2020-08-21 Fri 12:02]
+- State "DONE"       from "TODO"       [2020-08-21 Fri 11:22]
+- State "DONE"       from "TODO"       [2020-08-21 Fri 10:00]
 - State "DONE"       from "TODO"       [2020-08-20 Thu 17:59]
 - State "DONE"       from "TODO"       [2020-08-20 Thu 16:59]
 - State "DONE"       from "TODO"       [2020-08-20 Thu 16:00]
@@ -47,8 +53,13 @@ SCHEDULED: <2020-08-20 Thu 18:59 .+1h>
 * 2020
 ** Aug
 *** 21
-**** TODO Gelcoat Boat
+**** DONE Gelcoat Boat
 DEADLINE: <2020-08-21 Fri 18:00>
 :PROPERTIES:
 :WILD_NOTIFIER_NOTIFY_BEFORE: 120
 :END:
+**** DONE Pick up laptop
+SCHEDULED: <2020-08-21 Fri 15:00-16:30>
+*** 22
+**** DONE Install arch
+**** PROGRESS Install all other stuff
