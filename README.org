@@ -12,6 +12,5 @@
 * PERSONAL
 ** [[./personal/TODOs.org][TODOs]]
 ** [[./personal/EVENTs.org][EVENTs]]
-** [[./personal/Daily_reviews.org][Daily Reviews]]
-[[./personal/Weekly_reviews.org][Weekly Reviews]]
+** [[./personal/reviews.org][Reviews]]
 ** [[./personal/sailing.org][Sailing]]
