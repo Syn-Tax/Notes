@@ -2,7 +2,7 @@
 #+STARTUP: fold
 
 * Recurring
-** TODO Morning [1/4]
+** TODO Morning [3/4]
 SCHEDULED: <2020-08-23 Sun 08:00-09:00 .+1d>
 :PROPERTIES:
 :RESET_CHECK_BOXES: t
@@ -11,9 +11,9 @@ SCHEDULED: <2020-08-23 Sun 08:00-09:00 .+1d>
 - State "DONE"       from "TODO"       [2020-08-21 Fri 10:33]
 - State "DONE"       from "TODO"       [2020-08-20 Thu 10:51]
 - [X] Take Oralair
-- [ ] Eat Breakfast
+- [X] Eat Breakfast
 - [ ] Shower
-- [ ] write todos of sorts
+- [X] write todos of sorts
 ** TODO Evening [0/2]
 SCHEDULED: <2020-08-21 Fri 19:45-20:00 +1d>
 :PROPERTIES:
@@ -63,5 +63,6 @@ SCHEDULED: <2020-08-21 Fri 15:00-16:30>
 *** 22
 **** DONE Install arch
 **** DONE Install all other stuff
-*** TODO Sand Gelcoat on Boat
+*** 23
+**** TODO Sand Gelcoat on Boat
 DEADLINE: <2020-08-23 Sun 18:00>
