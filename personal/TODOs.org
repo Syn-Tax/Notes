@@ -67,3 +67,5 @@ SCHEDULED: <2020-08-21 Fri 15:00-16:30>
 *** 23
 **** TODO Sand Gelcoat on Boat
 DEADLINE: <2020-08-23 Sun 18:00>
+**** TODO Get Everything together for school
+SCHEDULED: <2020-08-23 Sun 19:30-19:40> DEADLINE: <2020-08-23 Sun 19:40>
