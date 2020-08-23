@@ -1,6 +1,6 @@
 #+TITLE:     Home
 
-TOST
+TEST
 
 * SCHOOL
 ** Subjects
