@@ -39,3 +39,7 @@ I also wrote a very sucessful script to automatically sync my org documents with
 * Weekly
 ** 2020
 *** 34
+**** org-mode
+This week I have properly learned org-mode and started to actually organise my life which so far has been very useful. I have created a structure to these reviews and am attempting to do them every day. I have also been forming a todo system which has been beneficial for me as I am starting to remember which tasks I have to do.
+**** GCSE Results
+This week I recieved all of my GCSE Results which I am very pleased with and think that I probably got better marks given by teachers than I would have managed if there had been actual exams which I think is probably not a good thing however I am still very happy with my results. The table can be seen in the daily review for the daily review on Aug 20 2020
