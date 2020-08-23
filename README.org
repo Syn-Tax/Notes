@@ -1,7 +1,5 @@
 #+TITLE:     Home
 
-TESTING 123
-
 * SCHOOL
 ** Subjects
   [[./school/english.org][English]]
