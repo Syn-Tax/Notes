@@ -35,3 +35,7 @@ After installing Arch I installed all of the standard software i.e. xorg, qtile 
 Today I talked to James for a while which seemed to be much needed since I felt much better after I had done this.
 ***** Computing
 I also wrote a very sucessful script to automatically sync my org documents with my laptop using git, it seems to work quite well so far.
+
+* Weekly
+** 2020
+*** 34
