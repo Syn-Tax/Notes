@@ -1,5 +1,7 @@
 #+TITLE:     Home
 
+TOST
+
 * SCHOOL
 ** Subjects
   [[./school/english.org][English]]
