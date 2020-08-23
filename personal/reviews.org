@@ -30,3 +30,8 @@ The rest of the day was mostly spent in anticipation of this however it was the 
 After writing yesterday's review I found a video explaining how to install arch which was very consise at only 20 minutes. In the video he used an mbr partitioning scheme for legacy bios however this ended up not working with my install due to me not knowing how to use the ~grub-install~ command, therefore I ended up going with a gpt partitioning scheme without the swap partition that I created at first.
 ***** Installing other software
 After installing Arch I installed all of the standard software i.e. xorg, qtile etc. and surprisingly the volume, backlight and wifi widgets built into qtile didn't seem to work which was unfortunate because it meant that I had to write them myself but that wasn't much of a big deal.
+**** 23
+***** Socializing
+Today I talked to James for a while which seemed to be much needed since I felt much better after I had done this.
+***** Computing
+I also wrote a very sucessful script to automatically sync my org documents with my laptop using git, it seems to work quite well so far.
