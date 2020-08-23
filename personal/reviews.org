@@ -20,3 +20,6 @@ Today was the day that i got the majority of my GCSE results see the table below
 I personally am very happy with these results especially english as i consistently got 6s throughout the years.
 ***** New Laptop
 Due to these results my parents have agreed to add 500 pounds to the laptop stockpile and this has allowed me to upgrade it from the ryzen 3 4300u to the ryzen 5 4500u lenovo flex 5 which will be picked up tomorrow. The interesting thing is that many people have said that the laptop will come with a pen and others have said that it won't, therefore we will see what happens.
+**** 21
+***** Laptop
+Today I picked up my laptop and immediately I felt that it was a really good laptop which has been reinforced throughout the rest of the day. I was a bit dissappointed to find that it didn't come with a pen however that was quite expected as the curry's page was quite amiguous therefore this was not much of a surprise. After this I started to install arch which I should probably left to tomorrow since I started about an hour ago. The install so far hasn't gone very smoothly however I feel that it shall be completed by tomorrow (I have had some confusion as to which partitioning scheme should be used).
