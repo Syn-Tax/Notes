@@ -2,20 +2,21 @@
 #+STARTUP: fold
 
 * Recurring
-** TODO Morning [3/4]
-SCHEDULED: <2020-08-23 Sun 08:00-09:00 .+1d>
+** TODO Morning [0/4]
+SCHEDULED: <2020-08-24 Mon 08:00-09:00 ++1d>
 :PROPERTIES:
 :RESET_CHECK_BOXES: t
-:LAST_REPEAT: [2020-08-21 Fri 10:33]
+:LAST_REPEAT: [2020-08-23 Sun 11:17]
 :END:
+- State "DONE"       from "TODO"       [2020-08-23 Sun 11:17]
 - State "DONE"       from "TODO"       [2020-08-21 Fri 10:33]
 - State "DONE"       from "TODO"       [2020-08-20 Thu 10:51]
-- [X] Take Oralair
-- [X] Eat Breakfast
+- [ ] Take Oralair
+- [ ] Eat Breakfast
 - [ ] Shower
-- [X] write todos of sorts
+- [ ] write todos of sorts
 ** TODO Evening [0/2]
-SCHEDULED: <2020-08-21 Fri 19:45-20:00 +1d>
+SCHEDULED: <2020-08-23 Sun 19:45-20:00 ++1d>
 :PROPERTIES:
 :RESET_CHECK_BOXES: t
 :LAST_REPEAT: [2020-08-20 Thu 20:21]
@@ -32,7 +33,7 @@ SCHEDULED: <2020-08-23 Sun 19:45-20:00 .+1w>
 - [ ] write Weekly Review
 
 ** TODO Cream Hands Aveeno
-SCHEDULED: <2020-08-22 Sat 17:00 ++1h>
+SCHEDULED: <2020-08-23 Sun 12:00 ++1h>
 :PROPERTIES:
 :LAST_REPEAT: [2020-08-22 Sat 16:00]
 :WILD_NOTIFIER_NOTIFY_BEFORE: 5 1
