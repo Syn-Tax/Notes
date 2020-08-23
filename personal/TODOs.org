@@ -15,20 +15,23 @@ SCHEDULED: <2020-08-24 Mon 08:00-09:00 ++1d>
 - [ ] Eat Breakfast
 - [ ] Shower
 - [ ] write todos of sorts
-** TODO Evening [0/2]
-SCHEDULED: <2020-08-23 Sun 19:45-20:00 ++1d>
+** TODO Evening [0/1]
+SCHEDULED: <2020-08-24 Mon 19:45-20:00 ++1d>
 :PROPERTIES:
 :RESET_CHECK_BOXES: t
-:LAST_REPEAT: [2020-08-20 Thu 20:21]
+:LAST_REPEAT: [2020-08-23 Sun 20:00]
 :END:
+- State "DONE"       from "TODO"       [2020-08-23 Sun 20:00]
 - State "DONE"       from "TODO"       [2020-08-20 Thu 20:21]
 - [ ] Write daily review
 
 ** TODO Weekend [0/1]
-SCHEDULED: <2020-08-23 Sun 19:45-20:00 .+1w>
+SCHEDULED: <2020-08-30 Sun 19:45-20:00 .+1w>
 :PROPERTIES:
 :RESET_CHECK_BOXES: t
+:LAST_REPEAT: [2020-08-23 Sun 20:00]
 :END:
+- State "DONE"       from "TODO"       [2020-08-23 Sun 20:00]
 - [ ] write Weekly Review
 
 ** TODO Cream Hands Aveeno
