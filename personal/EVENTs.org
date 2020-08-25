@@ -12,3 +12,7 @@ SCHEDULED: <2020-08-24 Mon 18:45-20:15>
 * One Time
 ** 2020
 *** Aug
+*** Sep
+*** Oct
+**** EVENT 500,000,000 seconds alive
+SCHEDULED: <2020-10-13 Tue 00:53>
