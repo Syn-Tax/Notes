@@ -9,19 +9,3 @@
 *** [[https://drive.google.com/file/d/1Ub9uk0QVa_N66P4eaODkz3UDj8cKO6jl/view?usp=sharing][Regression or classification in Norwegian]] :Paper:ReadAgain:
 *** [[https://pdfs.semanticscholar.org/88c6/c32193f90996dd8ed21b7ab70f7b43011e68.pdf][Neural Networks for Automated Essay Grading]] :Paper:ReadAgain:
 *** [[https://raw.githubusercontent.com/shubhpawar/Automated-Essay-Scoring/master/essays_and_scores.csv][Kaggle essay dataset]] :dataset:
-* Control Systems
-* Computational thinking and program design
-* Simple logic gates
-* General principles
-* Abstract data structures
-* Systems in organizations
-* Resource Management
-* System Design
-* Creating the web
-* Networks
-* Searching the web
-* Distributed approaches to the web
-* The evolving web
-* Analysing the web
-* The intelligent web
-* Computer Organisation
