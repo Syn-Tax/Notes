@@ -36,9 +36,9 @@
 *** Representation
 ** LangLit (SL)
 Study of 4 literary works and at least 4 non-literary texts, covering:
-- 2 literary forms
-- 2 periods
-- 2 Places
-- 1 English work
-- 1 work in translation
-- 2 "Free choices"
+ - 2 literary forms
+ - 2 periods
+ - 2 Places
+ - 1 English work
+ - 1 work in translation
+ - 2 "Free choices"
