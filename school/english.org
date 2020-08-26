@@ -49,7 +49,11 @@ Study of 4 literary works and at least 4 non-literary texts, covering:
 - Poetry
 - Prose: Fiction
 - Prose Non-Fiction
-*** LIterary Texts
+*** Literary Texts
+- Essays
+- Biographies
+- Letters
+- etc.
 ** Breakdown of final Grade
 | Exam            |   % |
 |-----------------+-----|
