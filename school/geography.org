@@ -1,6 +1,9 @@
 #+TITLE: Geography
 
-* Unit 1: Core: Changing Population
+* TODO download guide off of managebac
+DEADLINE: <2020-08-26 Wed 19:00>
+
+* Unit 1: Changing Population :Paper 2:
 * Unit 2: Core: Global climate - vulnerability & resilience
 * Option D: Geophysical Hazards
 * Option E: Liesure, Tourism & Sport
