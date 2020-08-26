@@ -7,10 +7,15 @@
 * The Crucible
 * Poetry (Carol Ann Duffy)
 ** Anne Hathaway
-*** TODO Do some research about the poem
+*** PROGRESS Do some research about the poem
 DEADLINE: <2020-08-28 Fri 12:15>
-
+**** Anne Hathaway herself
+- She was Shakespeare's wife
+- She was seven years older than Shakespeare when they married and Anne was already pregnant
+**** The Poem
 - written in a sonnet form
+- comes from Her first themed collection of poems (The World's Wife)
+- begins with an epigraph taken from Shakespeare's will leaving Anne his "second best bed" which was in fact the couple's maritial bed as the best was reserved for guests.
 * The Great Gatsby
 * Articles
 * Adverts
