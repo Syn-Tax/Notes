@@ -9,7 +9,10 @@
 * The Great Gatsby
 * Course Structure
 - The course has a three part structure according to the three areas of exploration.
-- No Assessment is tied to a particular part of the course so you can use any of the texts studied for any assessment (you cannot use the same work twice)
+- No Assessment is tied to a particular part of the course so you can use any of the texts studied for any assessment (you cannot use the same work twice).
+- The questions are very general which enables you to talk about whatever you want (relating to the question)
+- Example questions from paper 2:
+  + Referring to two of the works you have studied, discuss both how and why the text invites the reader to identify with situations, characters and/or ideas.
 ** Areas of Exploration
 *** Readers, Writers and Texts
 *** Time and Space
