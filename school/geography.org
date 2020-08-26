@@ -1,8 +1,5 @@
 #+TITLE: Geography
 
-* TODO download guide off of managebac
-DEADLINE: <2020-08-26 Wed 19:00>
-
 * Unit 1: Changing Population PG 388- :Paper 2:
 ** Key Terms
 *** North-South divide
