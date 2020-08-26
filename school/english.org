@@ -6,6 +6,7 @@
 * Ghosts
 * The Crucible
 * Poetry (Carol Ann Duffy)
+** Anne Hathaway
 * The Great Gatsby
 * Articles
 * Adverts
@@ -65,3 +66,8 @@ Study of 4 literary works and at least 4 non-literary texts, covering:
 Unseen Guided Textual Analysis
 
 The paper consists of two passages from two different non-literary text types, each accompanied by a question. Students choose one passage and write an analysis of it (20 marks)
+*** Exam Paper 2
+The paper consists od four general questions. In response to one question, students will
+*** Oral Assessment (15 mins)
+Supported by an extract from one literary work and one non-literary text, students will offer a prepared response of 15 minutes to the following prompt:
+Examine the ways in thich the global issue of your choice
