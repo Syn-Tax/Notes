@@ -1,4 +1,6 @@
 #+TITLE: English Language & Literature
+#+TEACHER: Mr Proudfoot
+#+ROOM: E4
 
 * Ghosts
 * The Crucible
