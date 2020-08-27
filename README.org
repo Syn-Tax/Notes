@@ -11,7 +11,7 @@
 *** [[./school/TOK.org][TOK]]
 *** [[./school/cas.org][CAS]]
 ** Timetable
-#+ATTR_ORG: :width 1000
+#+ATTR_ORG: :width 1250
 [[./school/timetable.png]]
 * PERSONAL
 ** [[./personal/TODOs.org][TODOs]]
