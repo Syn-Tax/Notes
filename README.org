@@ -10,6 +10,8 @@
 *** [[./school/maths.org][Maths]]
 *** [[./school/TOK.org][TOK]]
 *** [[./school/cas.org][CAS]]
+** Timetable
+[[./school/timetable.png]]
 * PERSONAL
 ** [[./personal/TODOs.org][TODOs]]
 ** [[./personal/EVENTs.org][EVENTs]]
