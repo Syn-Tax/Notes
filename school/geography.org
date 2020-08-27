@@ -1,7 +1,7 @@
 #+TITLE: Geography
 #+STARTUP: fold
 
-* Unit 1: Changing Population PG 388- :Paper 2:
+* Unit 1: Changing Population PG 388- :paper2:
 ** Key Terms
 *** North-South divide
 The increasing inequality in levels of development between the North and the South or between HICs and LICs.
@@ -13,6 +13,27 @@ The organisation of Petroleum Exporting Countries, representing the interests of
 A group of the world's wealthiest and most powerful countries.
 *** The G10 or Paris Club
 A group representing the wealthiest members of teh International Monetary Fund.
+** Don't Panic -- Hans Rosling showing the facts about population Notes :documentary:
+- population grew slowly until 1800 where pop became 1 billion
+- with the industrial revolution it rose exponentially to 2 billion in just 100 years
+- then from 3 billion to 8 billion since 1950(ish)
+- in Bangladesh they culturally have large families
+- The culture is now shifting towards smaller families
+- with fewer children per woman the life expectancy climbs
+- In the developed countries there were smaller families adn therewere longer lives
+- the opposite was true for developing countries
+- now there are fewer children per woman and the average life expectancy has therefore increased
+- When the british public were asked about this only 12% got it right
+- This is an example of the preocncieved ideas, however now 2 child families are the norm
+- The government is now making sure that more girls stay in school for secondary education
+- This seems to be working
+- The big reason why this change is working is a huge increase in child survival
+- Even in the slums women now mostly have two children
+- Before 1800 most women had 6 children however the population didn't grow due to the fact that 4 died
+- The big reason for rapid population growth is due to an increase in child survival
+- in 2000 there were 2 billion children and it is predicted to stay similar for the rest of the centuary
+- With this population growth it is resonable to assume that many will live in extreme poverty however many of the poorer countries's economies are booming however this is only for towns and cities (rural areas are becoming slowly better)
+- the big thing for the rural poor is getting a bicycle due to faster and more efficient transportation they are therefore able to make more money
 ** 1.1 Population and Economic development patterns
 ** 1.2
 ** 1.3
