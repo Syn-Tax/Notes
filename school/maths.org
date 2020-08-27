@@ -1,3 +1,4 @@
 #+TITLE: Maths
 
-* TODO Maths Prep (The sheet in my bag probably) Qs FRONT 1, 2, 3, BACK 3, 4, 5
+* TODO Maths Prep (The sheet in my bag probably) Qs FRONT 1, 2, 3, BACK 3, 4, 5 and question in notes
+DEADLINE: <2020-09-03 Thu 12:15>
