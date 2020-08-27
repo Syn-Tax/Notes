@@ -1,4 +1,5 @@
 #+TITLE: Geography
+#+STARTUP: fold
 
 * Unit 1: Changing Population PG 388- :Paper 2:
 ** Key Terms
