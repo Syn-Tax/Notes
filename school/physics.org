@@ -12,6 +12,7 @@ Mass of the earth?
 
 volume ~ 2.56*10^11 km^3
 
-density ~ 1.25 kg/m^3
+density ~ 1025 kg/m^3
 
 volume ~ 2.56*10^14 m^3
+mass ~ 3*10^14 kg
