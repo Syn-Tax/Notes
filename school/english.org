@@ -7,8 +7,7 @@
 * The Crucible
 * Poetry (Carol Ann Duffy)
 ** Anne Hathaway
-*** DONE Do some research about the poem
-DEADLINE: <2020-08-28 Fri 12:15>
+*** Context
 **** Anne Hathaway herself
 - She was Shakespeare's wife
 - She was seven years older than Shakespeare when they married and Anne was already pregnant
@@ -20,6 +19,24 @@ DEADLINE: <2020-08-28 Fri 12:15>
   + usually 3 quartets
 - comes from Her first themed collection of poems (The World's Wife)
 - begins with an epigraph taken from Shakespeare's will leaving Anne his "second best bed" which was in fact the couple's maritial bed as the best was reserved for guests. Some critics have said that this was an insult however Duffy portrays this as Shakespeare's last romantic guesture to his wife. The beds of prosperous citizens were expensive often reaching prices equivalent to a small house. And it was customary for the wife to recieve the second best furniture and for the children to recieve the best. It was also customary for the best bed to be used for guests and the second best for the couple themselves.
+- She is giving a voice to someone that may not have had a voice
+*** The Bed
+- can be seen as a aymbol for their everlasting love. She is able to look after the bed after her spouse has died.
+- It has this symbolic value due to the context of the times
+- It is used as a metaphor for their love
+*** Their Love
+- The line "Romance and drama played by touch, by scent, by taste." uses all of the senses gives us a sensory description which could reflect the physicality of their love furthermore Duffy's use of the abstract nouns 'romance' and 'drama' cleverly remind readers of the Bard's (Shakespeare) genre of plays
+- "loved" being in teh past tense may be indicating regret of his death with the bed being the only indication of her love
+- The "spinning world" may be something which is in her own imagination or that their love made her disorientating which could have been both overwhelming and controlling
+- In the first sentence there is significant amounts of imagery which shows how their love may have developed. It is also almose paying homage to some of Shakespeare's works
+  + Forests could be a referene to to A Midsummer Night's Dream
+  + Castles & torchlit = McBeth
+  + This produces a semantic field of fantasy
+  + This might reflect that their love was almost poetic and dreamy
+- "he would dive for pearls" pearls beign precious & hard to find possibly being a metaphor for their love
+- "a verb dancing in the centre of a noun" personifies the noun which
+*** Structure
+- The enjambment could indicate the almost incessant flowing rhythm of the speaker's desires
 * The Great Gatsby
 * Articles
 * Adverts
@@ -84,3 +101,12 @@ The paper consists od four general questions. In response to one question, stude
 *** Oral Assessment (15 mins)
 Supported by an extract from one literary work and one non-literary text, students will offer a prepared response of 15 minutes to the following prompt:
 Examine the ways in thich the global issue of your choice
+* Prep
+** AUG
+**** TODO Research into the background of Duffy
+DEADLINE: <2020-08-31 Mon>
+Focus on:
+- her gender
+- Find out about the other poems from her anthology (The world's wife)
+- Feminism
+- Use of Dramatic Monologue
