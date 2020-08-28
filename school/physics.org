@@ -10,4 +10,6 @@ Still within an order of magnitude
 Mass of the earth?
 23000 km circumference 4000km radius
 
-volume ~ 2.56*10^11
+volume ~ 2.56*10^11 km^3
+
+density ~ 1 kg/m^3
