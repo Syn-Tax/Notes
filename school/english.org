@@ -2,6 +2,7 @@
 #+NAME: Oscar Morris
 #+TEACHER: Mr Proudfoot
 #+ROOM: E4
+#+STARTUP: fold
 
 * Ghosts
 * The Crucible
