@@ -13,6 +13,18 @@ The organisation of Petroleum Exporting Countries, representing the interests of
 A group of the world's wealthiest and most powerful countries.
 *** The G10 or Paris Club
 A group representing the wealthiest members of teh International Monetary Fund.
+*** LIC
+Standing for low income country defined as (as of 1 July 2019) those with an average GNI (Gross National Income) per capita of $1025 (UN defines as $1035) or below the previous year as defined by the World Bank Atlas (World Bank)
+e.g. Afghanistan, Ghana
+*** MIC
+Middle Income Country
+Lower middle - $1026-$3995 (World Bank), $1036-$4085 (UN)
+Upper middle - $3996-$12375 (World Bank), $4086-$12615 (UN)
+e.g. Brazil, China, Indoneisa
+*** HIC
+High income country
+Above $12375 (World Bank), $12615 (UN)
+e.g. Japan, Australia, The Netherlands
 ** Don't Panic -- Hans Rosling showing the facts about population Notes :documentary:
 - population grew slowly until 1800 where pop became 1 billion
 - with the industrial revolution it rose exponentially to 2 billion in just 100 years
@@ -20,7 +32,7 @@ A group representing the wealthiest members of teh International Monetary Fund.
 - in Bangladesh they culturally have large families
 - The culture is now shifting towards smaller families
 - with fewer children per woman the life expectancy climbs
-- In the developed countries there were smaller families adn therewere longer lives
+- In the developed countries there were smaller families and therewere longer lives
 - the opposite was true for developing countries
 - now there are fewer children per woman and the average life expectancy has therefore increased
 - When the british public were asked about this only 12% got it right
@@ -34,6 +46,7 @@ A group representing the wealthiest members of teh International Monetary Fund.
 - in 2000 there were 2 billion children and it is predicted to stay similar for the rest of the centuary
 - With this population growth it is resonable to assume that many will live in extreme poverty however many of the poorer countries's economies are booming however this is only for towns and cities (rural areas are becoming slowly better)
 - the big thing for the rural poor is getting a bicycle due to faster and more efficient transportation they are therefore able to make more money
+- Extreme poverty seems to perpetuate
 ** 1.1 Population and Economic development patterns
 ** 1.2
 ** 1.3

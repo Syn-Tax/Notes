@@ -1,14 +1,17 @@
 #+TITLE: Physics
+#+STARTUP: fold
 
-* TODO Some Maths thing probably emailed
-* Estimation
-** Piano Tuners in Fife?
+* Things to remember
+diameter of an atom ~ 1*10^-10m
+diameter of a neucleus ~ 1*10^-15
+* Measurement
+** Estimation
+*** Piano Tuners in Fife?
 1000 pianos tuned 6 months 3 per day
 20 +- 20
 actual about 3 ish.
 Still within an order of magnitude
-
-** Mass of the earth?
+*** Mass of the earth?
 23000 km circumference 4000km radius
 
 volume ~ 2.56*10^11 km^3
@@ -17,16 +20,47 @@ density ~ 1025 kg/m^3
 
 volume ~ 2.56*10^20 m^3
 mass ~ 2.6*10^23kg
-** Mass of the sun?
+*** Mass of the sun?
 r ~ 700.000 km
 
 V ~ 1.3*10^18 km^3
 V ~ 1.3*10^27 m^3
 
 m ~ 2*10^30
-** Mass of the Observable universe?
+*** Mass of the Observable universe?
 2*10^31
 
 10^22
 
 2*10^53
+*** Number of atoms in a glass of water?
+300g
+mass = Mr * mol
+300 = 18 * mol
+mol = 50/3 * 6.02214*10^23
+=> atoms ~ 3*10^25
+*** Number of glasses of water in the world's oceans?
+1*10^9 km^3
+=> m^3 = 1*10^18
+glass of water ~ 0.3 m^3
+
+glasses of water in the ocean ~ 3*10^18
+*** Surface area of the earth?
+4*pi*r^2
+r = 6000 km
+
+SA = 6*10^8
+** Uncertainty
+*** height in inches?
+1 inch = 2.541 cm
+180 cm
+
+- There is some uncertainty coming from a difficulty in measuring
+*** Expressing uncertainties
+(182 +- 1) cm or 182cm +- 1cm
+
+- The number of decimal places in the uncertainty must equal the precision of the number
+
+A field has a width of 20+-1 m and a length of 120+-3 m what is its area and perimiter?
+Area = 2400+-183 or 2400+-180 m^2
+Perimiter =  280+-8 m
