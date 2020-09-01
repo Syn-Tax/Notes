@@ -16,3 +16,7 @@ Wegend der ganze Coronageschichte dachte ich dass das meiste gut gelaufen ist al
 * Freizeit: Fussball - eine Maenner domaene?
 * Identitaet 1:4 Wir und die Anderen
 * Erfahrungen 2:1 Praegende Einfluesse
+* Hausaufgaben
+** Aug
+*** TODO Das Ding wass per email geschiked worde lesen
+DEADLINE: <2020-09-08 Tue 10:20>
