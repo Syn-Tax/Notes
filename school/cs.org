@@ -7,7 +7,11 @@
 - due to the fact that checking answers requires high concentration and often leads to mistakes and also there are human biases which would hopefully be removed (this needs good training data though)
 - Automated answer grading is also significantly more efficient than doing it manually
 **** Algorithm
-The Model uses multiple hidden layers
+- The Model uses multiple hidden layers
+- For each layer they are using the ReLU activation function defined as ~f(x)=max(0,x)~
+- Their algorithm will also take the length of the answer into account with the teacher giving an ideal answer length
+**** Methodology
+- They scan the input and use ocr to to split the answer keyword
 *** [[https://www.cs.ox.ac.uk/files/238/acl05.pdf][Automatic Stort Answer Marking]] :Paper:ReadAgain:
 *** [[https://www.researchgate.net/profile/Lehan_Yang2/publication/333185811_Automated_Examination_Grading_Using_Deep_Learning_Categorization_Techniques/links/5cdfbb8ba6fdccc9ddb9537c/Automated-Examination-Grading-Using-Deep-Learning-Categorization-Techniques.pdf][Automatic Examination Grading Using Deep Learning Categorisation Techniques]] :Paper:ReadAgain:
 *** [[https://iopscience.iop.org/article/10.1088/1742-6596/1000/1/012030/pdf][Automated Essay Grading using Machine Learning Algorithm]] :Paper:Unread:
