@@ -145,7 +145,7 @@ Supported by an extract from one literary work and one non-literary text, studen
 Examine the ways in thich the global issue of your choice
 * Prep
 ** AUG
-**** TODO Research into the background of Duffy
+**** DONE Research into the background of Duffy
 DEADLINE: <2020-08-31 Mon>
 Focus on:
 - her gender
