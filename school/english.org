@@ -4,6 +4,9 @@
 #+ROOM: E4
 #+STARTUP: fold
 
+* Definitions
+** Dramatic monologue
+Poems inwhich one central narrator/speaker is presented
 * Ghosts
 * The Crucible
 * Poetry (Carol Ann Duffy)
