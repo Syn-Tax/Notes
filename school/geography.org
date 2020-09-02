@@ -49,10 +49,32 @@ e.g. Japan, Australia, The Netherlands
 - Extreme poverty seems to perpetuate
 ** 1.1 Population and Economic development patterns
 *** Population and Economic Development patterns
-**** Figure 1.1
-#+ATTR_ORG: :width 100
-[[https://i.imgur.com/kGr9caS.png]]
+**** Figure 1.1 PG 397 course companion
 ***** 10 biggest populations
+1. China
+2. India
+3. United States
+4. Indoneisa
+5. Pakistan
+6. Brazil
+7. Nigeria
+8. Bangladesh
+9. Russia
+10. Mexico
+***** Biggest Megacities
+1. Tokyo
+2. Dheli
+3. Shanghi
+4. Sao Paulo
+5. Mexico City
+6. Cairo
+7. Mumbai
+8. Beijing
+9. Dhaka
+10. Osaka
+****** Definition
+Cities whose population is greater than 10 million
+City defined as the administrative district of a city
 ** 1.2
 ** 1.3
 * Unit 2: Core: Global climate - vulnerability & resilience
