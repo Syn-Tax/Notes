@@ -51,6 +51,7 @@ e.g. Japan, Australia, The Netherlands
 *** Population and Economic Development patterns
 **** Figure 1.1
 
+#+ATTR_ORG: :width 500
 [[https://i.imgur.com/kGr9caS.png]]
 ** 1.2
 ** 1.3
