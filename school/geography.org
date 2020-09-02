@@ -50,9 +50,9 @@ e.g. Japan, Australia, The Netherlands
 ** 1.1 Population and Economic development patterns
 *** Population and Economic Development patterns
 **** Figure 1.1
-
 #+ATTR_ORG: :width 500
 [[https://i.imgur.com/kGr9caS.png]]
+***** 10 biggest populations
 ** 1.2
 ** 1.3
 * Unit 2: Core: Global climate - vulnerability & resilience
