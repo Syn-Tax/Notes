@@ -106,6 +106,7 @@ EG:
 EG:
  - soils good for agriculture
 ******* Vegetation
+- affected by the landscape, can affect which crops can be grown
 ******* Water
 ******* Accessibility
 ****** Human factors
