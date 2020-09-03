@@ -81,3 +81,6 @@ Is the shortest path moved in a particular direction
 - The accuracy is how close to the true value a measurement is
 *** Speed & Veolcity
 - *Speed* is scalar, *velocity* is vector
+- How do you calculate speed?
+        Speed = Distance/time
+- What is the difference between *instantaneous* and *average* velocity/speed
