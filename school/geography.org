@@ -79,7 +79,8 @@ City defined as the administrative district of a city
 ***** Population density
 [[https://i.imgur.com/IaRlRdS.png]]
 ****** Physical factors
-******* CLimate
+These mostly have to do with the ability to grow food
+******* Climate
 ******* Landscape
 ******* Resources
 ******* Soils
