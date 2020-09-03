@@ -89,3 +89,8 @@ Is the shortest path moved in a particular direction
 **** Measuring Speed & Veolcity
 1) Simple method
    Stopwatch & measuring rule
+
+   Problems:
+   - there is a large uncertainty in the amount of time
+   - large uncertainty in distance
+2)
