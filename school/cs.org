@@ -44,3 +44,24 @@ just spend 10 minutes working ou twhat ur going to do
 - most modern cars
 - device drivers within oses
 - intelligent devices e.g. alexa, siri, cortana, google assistant
+** Types of Sensors
+- motion detectors
+  + ultrasound
+  + IR
+- climate control sensors
+  + thermostat
+  + humidity
+  + light
+- security
+  + heat
+  + smoke
+  + sound
+- process
+  + pressure
+  + pH
+  + motion
+  + position (camera)
+- intelligent systems
+  + voice
+  + touch
+  + tilt/accelerometers
