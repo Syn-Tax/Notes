@@ -32,3 +32,6 @@ just spend 10 minutes working ou twhat ur going to do
 - must have some sort of sensor & feedback loop
 - Sensor -> Controller -> Actuator -> Process = change in condition which the sensor will respond to and change the input
 - e.g. heating system
+** Examples
+- automatic door openers
+- Cenrtal heating system
