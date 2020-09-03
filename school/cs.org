@@ -1,4 +1,5 @@
 #+TITLE: Computer Science
+#+STARTUP: fold
 
 * Internal Assessment
 ** Research/literature
