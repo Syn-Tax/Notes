@@ -72,3 +72,4 @@ A *vector* is a quantity what has both *magnitude* and direction
 - *Distance* is scalar, *displacement* is vector
 *** Displacement
 Is the shortest path moved in a particular direction
+- if ypu run around a running track your distance will be 400m but your displacement will be 0m
