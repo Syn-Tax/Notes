@@ -21,3 +21,10 @@
 * Intro to programming
 ** DESIGN IS THE MOST IMPORTANT PART OF CODING
 just spend 10 minutes working ou twhat ur going to do
+* Control Systems
+** Definition
+- Any computer that manages, commands, directs or regulates the behavior o fother devices or systems
+  + They usually take in input, process it and output some output
+  + open loop vs. closed loop i.e. the main two types of control systems
+*** Open Loop systems
+- input -> controller -> output -> Actuator -> Process
