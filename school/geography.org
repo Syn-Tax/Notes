@@ -109,6 +109,7 @@ EG:
 - affected by the landscape, can affect which crops can be grown
 ******* Water
 ******* Accessibility
+- mode and frequency of transport
 ****** Human factors
 ******* Government policies
 ******* Disease
