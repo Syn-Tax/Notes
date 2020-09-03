@@ -70,3 +70,5 @@ A *scalar* is a quantity what has a *magnitude* but no direction
 A *vector* is a quantity what has both *magnitude* and direction
 
 - *Distance* is scalar, *displacement* is vector
+*** Displacement
+Is the shortest path moved in a particular direction
