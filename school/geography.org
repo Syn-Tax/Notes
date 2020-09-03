@@ -75,6 +75,7 @@ e.g. Japan, Australia, The Netherlands
 ****** Definition
 Cities whose population is greater than 10 million
 City defined as the administrative district of a city
+**** What affects where people live?
 ** 1.2
 ** 1.3
 * Unit 2: Core: Global climate - vulnerability & resilience
