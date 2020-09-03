@@ -93,4 +93,5 @@ Is the shortest path moved in a particular direction
    Problems:
    - there is a large uncertainty in the amount of time
    - large uncertainty in distance
-2)
+2) To reduce uncertainty in time use light gates - average speed
+3) Instantaneous speed with light gates
