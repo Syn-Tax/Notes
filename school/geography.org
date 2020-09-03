@@ -87,8 +87,13 @@ These mostly have to do with the is the ability to grow food
 EG:
  - extreme drought
  - extreme cold
+ - mild climates
 ******* Landscape
 - The landscape will again have an impact on food production and on communications
+EG:
+ - moutinous
+ - flat
+ - grassland
 ******* Resources
 ******* Soils
 ******* Vegetation
