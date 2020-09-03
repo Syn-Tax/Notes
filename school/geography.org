@@ -83,7 +83,7 @@ These mostly have to do with the ability to grow food
 ******* Climate
 - This would have to do with the climates required for efficient agriculture
 - It is physical due to the fact that it cannot be controlled by humans
-- It can be considered both an att
+- It can be considered both an attrector if the climate of that particular area is favourable either for tourism or for agriculture
 ******* Landscape
 ******* Resources
 ******* Soils
