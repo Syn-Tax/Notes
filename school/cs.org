@@ -42,3 +42,4 @@ just spend 10 minutes working ou twhat ur going to do
 - GPS systems
 - most modern cars
 - device drivers within oses
+- intelligent devices e.g. alexa, siri, cortana, google assistant
