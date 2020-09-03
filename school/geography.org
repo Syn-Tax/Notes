@@ -94,8 +94,17 @@ EG:
  - moutinous
  - flat
  - grassland
+ - forest
 ******* Resources
+- This would mostly have an impact on the economic growth of a region as long as it has the technology to exploit those resources
+EG:
+ - Coal
+ - Oil
+ - Forest
 ******* Soils
+- Mostly for agriculture again
+EG:
+ - soils good for agriculture
 ******* Vegetation
 ******* Water
 ******* Accessibility
