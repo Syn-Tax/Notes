@@ -108,6 +108,9 @@ EG:
 ******* Vegetation
 - affected by the landscape, can affect which crops can be grown
 ******* Water
+- potable vs non-potable water
+- water for cooling industrial equipment
+- transport
 ******* Accessibility
 - mode and frequency of transport
 ****** Human factors
