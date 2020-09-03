@@ -84,3 +84,5 @@ Is the shortest path moved in a particular direction
 - How do you calculate speed?
         Speed = Distance/time
 - What is the difference between *instantaneous* and *average* velocity/speed
+  + instantaneous speed is speed at a specific moment
+  + Average is over a non-zero amount of time
