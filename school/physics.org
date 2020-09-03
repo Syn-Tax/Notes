@@ -74,4 +74,4 @@ A *vector* is a quantity what has both *magnitude* and direction
 
 Is the shortest path moved in a particular direction
 
-- if ypu run around a running track your distance will be 400m but your displacement will be 0m
+- if you run around a running track your distance will be 400m but your displacement will be 0m
