@@ -34,4 +34,5 @@ just spend 10 minutes working ou twhat ur going to do
 - e.g. heating system
 ** Examples
 - automatic door openers
-- Cenrtal heating system
+- central heating system
+- washing machines
