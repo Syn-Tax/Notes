@@ -1,5 +1,6 @@
 #+TITLE: Physics
 #+STARTUP: fold
+#+NAME: Oscar Morris
 
 * Things to remember
 diameter of an atom ~ 1*10^-10m
