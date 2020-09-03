@@ -79,3 +79,5 @@ Is the shortest path moved in a particular direction
 - Resolution is the smallest change an instrument can detect increasing resolution generally improves presicion
 - The precision is how close together repeat measurements are
 - The accuracy is how close to the true value a measurement is
+*** Speed & Veolcity
+- *Speed* is scalar, *velocity* is vector
