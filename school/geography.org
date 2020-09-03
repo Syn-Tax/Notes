@@ -77,6 +77,7 @@ Cities whose population is greater than 10 million
 City defined as the administrative district of a city
 **** What affects where people live?
 ***** Population density
+[[https://i.imgur.com/IaRlRdS.png]]
 ****** Physical factors
 ******* CLimate
 ******* Landscape
