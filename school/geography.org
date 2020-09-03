@@ -136,6 +136,7 @@ Economic classifications
 **** Will the global population surpass 10 billion by 2100
 - until now yes
 - recent research shows it might actually start shrinking well before 2100
+-
 ** 1.2
 ** 1.3
 * Unit 2: Core: Global climate - vulnerability & resilience
