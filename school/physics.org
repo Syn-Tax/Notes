@@ -86,3 +86,6 @@ Is the shortest path moved in a particular direction
 - What is the difference between *instantaneous* and *average* velocity/speed
   + instantaneous speed is speed at a specific moment
   + Average is over a non-zero amount of time
+**** Measuring Speed & Veolcity
+1) Simple method
+   Stopwatch & measuring rule
