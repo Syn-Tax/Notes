@@ -106,7 +106,7 @@ EG:
 EG:
  - soils good for agriculture
 ******* Vegetation
-- affected by the landscape, can affect which crops can be grown
+- affected by the landscape & climate, can affect which crops can be grown
 ******* Water
 - potable vs non-potable water
 - water for cooling industrial equipment
