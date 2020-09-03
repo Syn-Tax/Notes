@@ -125,6 +125,12 @@ Economic classifications
   + There is evidence to suggest that the rich are getting richer and the poor are getting relatively poorer
   + This method is still widely used in the media and by politicians & activists & categorized by the Brandt line or the North-South divide
 - Another formerly common method of classification is as follows
+  + *The First World* (developed): Western europe, North America, Australia, New Zealand & Japan
+  + *The Second World*: state-controlled communist countries such as teh former Soviet Union
+  + *The Third World*, or developing world: all other less developed countries
+- A More detailed  way of classifying countries is as follows:
+  + More economically developed countries (MEDC) such as the UK & USA
+    These are the most developed countries and have a high standard of living. They are now referred to as high-income countries (HICs)
 ** 1.2
 ** 1.3
 * Unit 2: Core: Global climate - vulnerability & resilience
