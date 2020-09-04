@@ -71,6 +71,8 @@ Perimiter =  280+-8 m
   We often use error in place of uncertainty
 - delta z = delta x + delta y (for both addition and subtraction)
 - We always add the absolute (in this case as a number as opposed to relative uncertainty (5%)) uncertainties for addition/subtraction
+*** Relative uncertainties
+- they are usually expressed as percentages so they are relative to the value
 ** Scalars & Vectors
 A *scalar* is a quantity what has a *magnitude* but no direction
 A *vector* is a quantity what has both *magnitude* and direction
