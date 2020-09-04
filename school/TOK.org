@@ -5,3 +5,4 @@
 ** What criteria can we use to distinguish between knowledge, belief & opinion?
 3 things that we feel we know
 1. I know this room has at least one radiator
+2. I know that I cannot know that anything is true
