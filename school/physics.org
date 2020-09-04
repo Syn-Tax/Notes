@@ -70,7 +70,7 @@ Perimiter =  280+-8 m
   delta z = uncertainty in z
   We often use error in place of uncertainty
 - delta z = delta x + delta y (for both addition and subtraction)
-- We add the absolute uncertainties
+- We always add the absolute uncertainties
 ** Scalars & Vectors
 A *scalar* is a quantity what has a *magnitude* but no direction
 A *vector* is a quantity what has both *magnitude* and direction
