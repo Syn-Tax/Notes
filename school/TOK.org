@@ -1,3 +1,5 @@
 #+TITLE: Theory of knowledge
 
 * Knowledge & the Knower
+- underpinned by the question how do we know stuff
+** What criteria can we use to distinguish between knowledge, belief & opinion?
