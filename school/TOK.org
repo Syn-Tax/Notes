@@ -1,4 +1,1 @@
-#+TITLE: Tok
-
-
-* TOK
+#+TITLE: Theory of knowledge
