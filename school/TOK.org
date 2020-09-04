@@ -3,3 +3,5 @@
 * Knowledge & the Knower
 - underpinned by the question how do we know stuff
 ** What criteria can we use to distinguish between knowledge, belief & opinion?
+3 things that we feel we know
+1. I know that my name is oscar
