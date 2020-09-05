@@ -1,14 +1,5 @@
 #+TITLE: EVENTs
 
-* Recurring
-** EVENT Group Tennis :@Wormit:Sport:
-SCHEDULED: <2020-08-26 Wed 18:45-20:15 .+1w>
-:PROPERTIES:
-:LAST_REPEAT: [2020-08-19 Wed 18:43]
-:END:
-- State "DONE"       from "EVENT"      [2020-08-19 Wed 18:43]
-** EVENT One-on-One Tennis :@Newport:Sport:
-SCHEDULED: <2020-08-24 Mon 18:45-20:15>
 * One Time
 ** 2020
 *** Aug
