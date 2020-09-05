@@ -20,3 +20,5 @@ Wegend der ganze Coronageschichte dachte ich dass das meiste gut gelaufen ist al
 ** Aug
 *** TODO Das Ding wass per email geschiked worde lesen
 DEADLINE: <2020-09-08 Tue 10:20>
+*** TODO Do questions 1-4 & read thingy on PG 75-77
+DEADLINE: <2020-09-07 Mon 09:00>
