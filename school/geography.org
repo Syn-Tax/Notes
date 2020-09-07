@@ -28,6 +28,8 @@ e.g. Japan, Australia, The Netherlands
 *** The 4 Ps
 - *Place* can be identified at a veriety of *scales* from local territories or locations to the national or statr level. They can be compared according to their cultural or physical diversity or disparities in wealth or resource endownment. The characteristics of a place may be real or percieved, and spatial interactions between places can be considered
 - *Processes* are human or physical mechanisms of change, such as migration or weathering. They operate on varying timescales. Linear systems, circular systems, and complex systems are all outcomes of the way in which processes operate and interact
+- *Power* is the ability to influence and affect change or equilibrium at different scales. Power is vested in citizens, governments, institutions and other players, and in physical processes in the natural world. Equty and security, botht environmental and economic, can be gained or lost as a result of the interaction of powerful forces
+- *Possibilities* are the alternative events, futures, and outcomes that geographers can model, project or predict with varying degrees of certainty. Key contemporary questions include teh degree to which human and environmental systems are usstainable
 ** Don't Panic -- Hans Rosling showing the facts about population Notes :documentary:
 - population grew slowly until 1800 where pop became 1 billion
 - with the industrial revolution it rose exponentially to 2 billion in just 100 years
