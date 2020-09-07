@@ -83,6 +83,9 @@ If no uncertainty is given, it will still be implied by the number of sig. figs.
 - The simpler rule to use ofr a question which is not about uncertainties
   + for mult/div/powers the smaller number of sig. figs. in the question
   + for add/sub the least number of d.p. given in the question
+- More complex functions
+  Sometimes we need to go back to first principles
+  + What is the uncertainty of sin(30+/-1 degrees)? for example
 ** Scalars & Vectors
 A *scalar* is a quantity what has a *magnitude* but no direction
 A *vector* is a quantity what has both *magnitude* and direction
