@@ -78,7 +78,9 @@ Perimiter =  280+-8 m
 [[https://i.imgur.com/cMep6ZD.png]]
 *** Implicit uncertainties
 If no uncertainty is given, it will still be implied by the number of sig. figs.
-
+*** Uncertainty in questions
+- even if the question is not about uncertainties you should still express to the right amount of sig. figs.
+- The simpler rule to use ofr a question which is not about uncertainties
 ** Scalars & Vectors
 A *scalar* is a quantity what has a *magnitude* but no direction
 A *vector* is a quantity what has both *magnitude* and direction
