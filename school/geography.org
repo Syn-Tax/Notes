@@ -138,6 +138,7 @@ Economic classifications
     - CIVETS - Columbia, Indonesia, Vietnam, Egypt, Turkey and South Africa
     - Next Eleven (N11) - Bangladesh, Egypt, Indonesia, Iran, Mexico, Nigeria, Pakistan, the Philippines, Turkey, South Korea and Vietnam -- countries that have potentially the currently fastest growing economies
     - Centrally planned economies (CPEs) such as North Korea or former USSR, these are socialist countries under strict governmental conrtol, many former communist countries remain in this category.
+    - Oil-rich countries such as Saudi Arabia, High GNP per capita although not distributed evenly
 **** Will the global population surpass 10 billion by 2100
 - until now yes
 - recent research shows it might actually start shrinking well before 2100
