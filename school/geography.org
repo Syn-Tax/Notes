@@ -25,6 +25,9 @@ e.g. Brazil, China, Indoneisa
 High income country
 Above $12375 (World Bank), $12615 (UN)
 e.g. Japan, Australia, The Netherlands
+*** The 4 Ps
+- *Place* can be identified at a veriety of *scales* from local territories or locations to the national or statr level. They can be compared according to their cultural or physical diversity or disparities in wealth or resource endownment. The characteristics of a place may be real or percieved, and spatial interactions between places can be considered
+- *Processes* are human or physical mechanisms of change, such as migration or weathering. They operate on varying timescales. Linear systems, circular systems, and complex systems are all outcomes of the way in which processes operate and interact
 ** Don't Panic -- Hans Rosling showing the facts about population Notes :documentary:
 - population grew slowly until 1800 where pop became 1 billion
 - with the industrial revolution it rose exponentially to 2 billion in just 100 years
