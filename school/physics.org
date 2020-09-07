@@ -76,6 +76,8 @@ Perimiter =  280+-8 m
 - they are usually expressed as percentages so they are relative to the value
 *** Uncertainty propogation for exponents
 [[https://i.imgur.com/cMep6ZD.png]]
+*** Implicit uncertainties
+If no uncertainty is given, it will still be implied by the number of sig. figs.
 
 ** Scalars & Vectors
 A *scalar* is a quantity what has a *magnitude* but no direction
