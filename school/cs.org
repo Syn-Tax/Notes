@@ -3,7 +3,7 @@
 
 * Internal Assessment
 ** Research/literature
-*** [[https://drive.google.com/file/d/19FiBh5dXodeabyzud45vRcJfiWBuELoP/view?usp=sharing][Answer Evaluation Using Machine Learning]] :Paper:Unread:
+*** [[./cs/Answer_Evaluation_with_ML.pdf][Answer Evaluation Using Machine Learning] :Paper:Unread:
 **** Introduction
 - due to the fact that checking answers requires high concentration and often leads to mistakes and also there are human biases which would hopefully be removed (this needs good training data though)
 - Automated answer grading is also significantly more efficient than doing it manually
