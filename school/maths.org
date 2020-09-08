@@ -6,5 +6,5 @@
 DEADLINE: <2020-09-01 Tue 12:15>
 *** DONE Maths other questions, proof of 2nd law on sheet thingy
 DEADLINE: <2020-09-04 Fri>
-*** TODO Maths investigation into log & exp graphs
+*** DONE Maths investigation into log & exp graphs
 DEADLINE: <2020-09-08 Tue 12:10>
