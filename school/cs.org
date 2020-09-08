@@ -24,7 +24,8 @@
 - The system is about 17-87.5% accurate compared to manual marking
 - The automated system was generally either the same or slightly lower
 *** [[./cs/Automatic_Short_Answer_marking.pdf][Automatic Stort Answer Marking]] :Paper:ReadAgain:
-****
+**** Introduction
+- They are using short (3 mark) GCSE questions which are long enough to have many answers
 *** [[./cs/AutomatedExaminationGradingUsingDeepLearningCategorizationTechniques.pdf][Automatic Examination Grading Using Deep Learning Categorisation Techniques]] :Paper:ReadAgain:
 *** [[./cs/AutomatedEssayGrading.pdf][Automated Essay Grading using Machine Learning Algorithm]] :Paper:Unread:
 *** [[./cs/Automatic_Essay_Grading_Norwegian.pdf][Regression or classification in Norwegian]] :Paper:ReadAgain:
