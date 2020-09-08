@@ -12,7 +12,15 @@
 - For each layer they are using the ReLU activation function defined as ~f(x)=max(0,x)~
 - Their algorithm will also take the length of the answer into account with the teacher giving an ideal answer length
 **** Methodology
-- They scan the input and use ocr to to split the answer keyword
+- They scan the input and use ocr to to split the answer into keywords
+- Steps to evaluate Answer
+  + Provide Answer Sheet in image
+  + Provide keywords
+  + The system will separate words from the given answer
+  + check num.of words to desired length
+  + check amount of keywords
+**** Results
+-
 *** [[./cs/Automatic_Short_Answer_marking.pdf][Automatic Stort Answer Marking]] :Paper:ReadAgain:
 *** [[./cs/AutomatedExaminationGradingUsingDeepLearningCategorizationTechniques.pdf][Automatic Examination Grading Using Deep Learning Categorisation Techniques]] :Paper:ReadAgain:
 *** [[./cs/AutomatedEssayGrading.pdf][Automated Essay Grading using Machine Learning Algorithm]] :Paper:Unread:
