@@ -13,7 +13,7 @@
 - Their algorithm will also take the length of the answer into account with the teacher giving an ideal answer length
 **** Methodology
 - They scan the input and use ocr to to split the answer keyword
-*** [[https://www.cs.ox.ac.uk/files/238/acl05.pdf][Automatic Stort Answer Marking]] :Paper:ReadAgain:
+*** [[./cs/Automatic_Short_Answer_marking.pdf][Automatic Stort Answer Marking]] :Paper:ReadAgain:
 *** [[./cs/AutomatedExaminationGradingUsingDeepLearningCategorizationTechniques.pdf][Automatic Examination Grading Using Deep Learning Categorisation Techniques]] :Paper:ReadAgain:
 *** [[./cs/AutomatedEssayGrading.pdf][Automated Essay Grading using Machine Learning Algorithm]] :Paper:Unread:
 *** [[./cs/Automatic_Essay_Grading_Norwegian.pdf][Regression or classification in Norwegian]] :Paper:ReadAgain:
