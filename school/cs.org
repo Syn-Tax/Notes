@@ -28,6 +28,8 @@
 - They are using short (3 mark) GCSE questions which are long enough to have many answers
 - They use machine learning to write linguistic patterns for each question based on sample answers
 *** [[./cs/AutomatedExaminationGradingUsingDeepLearningCategorizationTechniques.pdf][Automatic Examination Grading Using Deep Learning Categorisation Techniques]] :Paper:ReadAgain:
+- It is using exams from the Chinese version of the SAT (TOEFL)
+- They used the ResNet-18 ConvNet on the ImageNet pre-training dataset based on image data
 *** [[./cs/AutomatedEssayGrading.pdf][Automated Essay Grading using Machine Learning Algorithm]] :Paper:Unread:
 *** [[./cs/Automatic_Essay_Grading_Norwegian.pdf][Regression or classification in Norwegian]] :Paper:ReadAgain:
 *** [[./cs/NN_For_Automated_Essay_Grading.pdf][Neural Networks for Automated Essay Grading]] :Paper:ReadAgain:
