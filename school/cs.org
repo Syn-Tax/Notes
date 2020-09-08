@@ -22,6 +22,7 @@
 **** Results
 - Manual exaluation takes ~60 seconds, automated takes ~15 seconds therefore 300% more time efficient
 - The system is about 17-87.5% accurate compared to manual marking
+- The automated system was generally either the same or slightly lower
 *** [[./cs/Automatic_Short_Answer_marking.pdf][Automatic Stort Answer Marking]] :Paper:ReadAgain:
 *** [[./cs/AutomatedExaminationGradingUsingDeepLearningCategorizationTechniques.pdf][Automatic Examination Grading Using Deep Learning Categorisation Techniques]] :Paper:ReadAgain:
 *** [[./cs/AutomatedEssayGrading.pdf][Automated Essay Grading using Machine Learning Algorithm]] :Paper:Unread:
