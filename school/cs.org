@@ -16,8 +16,8 @@
 *** [[https://www.cs.ox.ac.uk/files/238/acl05.pdf][Automatic Stort Answer Marking]] :Paper:ReadAgain:
 *** [[https://www.researchgate.net/profile/Lehan_Yang2/publication/333185811_Automated_Examination_Grading_Using_Deep_Learning_Categorization_Techniques/links/5cdfbb8ba6fdccc9ddb9537c/Automated-Examination-Grading-Using-Deep-Learning-Categorization-Techniques.pdf][Automatic Examination Grading Using Deep Learning Categorisation Techniques]] :Paper:ReadAgain:
 *** [[https://iopscience.iop.org/article/10.1088/1742-6596/1000/1/012030/pdf][Automated Essay Grading using Machine Learning Algorithm]] :Paper:Unread:
-*** [[https://drive.google.com/file/d/1Ub9uk0QVa_N66P4eaODkz3UDj8cKO6jl/view?usp=sharing][Regression or classification in Norwegian]] :Paper:ReadAgain:
-*** [[https://pdfs.semanticscholar.org/88c6/c32193f90996dd8ed21b7ab70f7b43011e68.pdf][Neural Networks for Automated Essay Grading]] :Paper:ReadAgain:
+*** [[./cs/Automatic_Essay_Grading_Norwegian.pdf][Regression or classification in Norwegian]] :Paper:ReadAgain:
+*** [[./cs/NN_For_Automated_Essay_Grading.pdf][Neural Networks for Automated Essay Grading]] :Paper:ReadAgain:
 *** [[https://raw.githubusercontent.com/shubhpawar/Automated-Essay-Scoring/master/essays_and_scores.csv][Kaggle essay dataset]] :dataset:
 * Intro to programming
 ** DESIGN IS THE MOST IMPORTANT PART OF CODING
