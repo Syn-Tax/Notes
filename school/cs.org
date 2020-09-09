@@ -30,6 +30,14 @@
 *** [[./cs/AutomatedExaminationGradingUsingDeepLearningCategorizationTechniques.pdf][Automatic Examination Grading Using Deep Learning Categorisation Techniques]] :Paper:ReadAgain:
 - It is using exams from the Chinese version of the SAT (TOEFL)
 - They used the ResNet-18 ConvNet on the ImageNet pre-training dataset based on image data
+- They convert the problem into a multi-class task
+  + label the datadet as a single image with a score-range label
+- Dataset construction
+  + They signed a confidentiality agreement with a high school
+- results
+  + in general an accuracy of about 85% was achieved over a 10 scores error and approx. 95% over a 20 scores error
+  + for each subject there are different accuracies
+    - the accuracy is highest for chinese, english
 *** [[./cs/AutomatedEssayGrading.pdf][Automated Essay Grading using Machine Learning Algorithm]] :Paper:Unread:
 *** [[./cs/Automatic_Essay_Grading_Norwegian.pdf][Regression or classification in Norwegian]] :Paper:ReadAgain:
 *** [[./cs/NN_For_Automated_Essay_Grading.pdf][Neural Networks for Automated Essay Grading]] :Paper:ReadAgain:
