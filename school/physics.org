@@ -122,3 +122,7 @@ Is the shortest path moved in a particular direction
 2) 0
 3) 100 km
 4) 20km/h
+*** Acceleration
+*_Uniform Acceleration_* (Uniform = doesn't change)
+
+- Acceleration is a measure of how much speed (or velocity) changes per unit time
