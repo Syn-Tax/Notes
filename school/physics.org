@@ -133,7 +133,7 @@ Is the shortest path moved in a particular direction
   [[https://i.imgur.com/IH97XQq.png]]
 - *THIS EQUATION ONLY WORKS WHEN ACCELERATION IS UNIFORM*
 - e.g. a car accelerates from rest, for 10s the acceleration is 5ms^-2. What is the final velocity of the car?
-*** Velogity time graphs
+*** Velocity time graphs
 [[https://i.imgur.com/dmrjuHf.png]]
 - If the line is straight then you can just calculate the gradient of the line
 *** Non-uniform Acceleration
@@ -144,3 +144,12 @@ i.e.
 [[https://i.imgur.com/k491Sz9.png]]
 
 From a distance time graph, velocity is the gradient of the graph at a point. Similar for a velocity time graph the gradient will be acceleration
+*** displacement time graphs
+- For a displacement time graph, velocity is the gradient of the graph at a point.
+I[[https://i.imgur.com/98enIlN.png]]
+a) constant low velocity
+b) acceleration
+c) constant high velocity
+d) at rest
+e) constant high velocity
+ gradient = velocity
