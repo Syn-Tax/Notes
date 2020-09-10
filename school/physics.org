@@ -151,5 +151,8 @@ d) at rest
 e) constant high velocity
  gradient = velocity
 *** Velocity time graphs
-[[https://i.imgur.com/dmrjuHf.png]]
-- If the line is straight then you can just calculate the gradient of the line
+[[https://i.imgur.com/SUCfzG2.png]]
+a) constant velocity
+b) constant deceleration
+c) constant acceleration moving in opposite direction
+d) increasing acceleration (constant jerk)
