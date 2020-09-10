@@ -117,3 +117,8 @@ Is the shortest path moved in a particular direction
 2) To reduce uncertainty in time use light gates - average speed
 3) Instantaneous speed with light gates
 ** Motion Graphs and acceleration
+*** Starter
+1) 0
+2) 0
+3) 100 km
+4) 20km/h
