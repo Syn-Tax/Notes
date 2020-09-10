@@ -128,3 +128,5 @@ Is the shortest path moved in a particular direction
 - Acceleration is a measure of how much speed (or velocity) changes per unit time
   [[https://i.imgur.com/NQJ4VM6.png]]
 - Unit of acceleration is usually ms^-2
+- Unit of velocity is usually ms^-1
+- Unit of time is usually s
