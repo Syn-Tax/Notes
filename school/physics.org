@@ -156,3 +156,5 @@ a) constant velocity
 b) constant deceleration
 c) constant acceleration moving in opposite direction
 d) increasing acceleration (constant jerk)
+e) decreasing acceleration (constant jerk)
+x) at rest
