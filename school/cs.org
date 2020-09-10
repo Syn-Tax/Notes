@@ -39,9 +39,11 @@
   + for each subject there are different accuracies
     - the accuracy is highest for chinese, english
 *** [[./cs/AutomatedEssayGrading.pdf][Automated Essay Grading using Machine Learning Algorithm]] :Paper:Unread:
+-
 *** [[./cs/Automatic_Essay_Grading_Norwegian.pdf][Regression or classification in Norwegian]] :Paper:ReadAgain:
 *** [[./cs/NN_For_Automated_Essay_Grading.pdf][Neural Networks for Automated Essay Grading]] :Paper:ReadAgain:
 *** [[https://raw.githubusercontent.com/shubhpawar/Automated-Essay-Scoring/master/essays_and_scores.csv][Kaggle essay dataset]] :dataset:
+** TODO Read about zero-shot learning with gpt 3
 * Intro to programming
 ** DESIGN IS THE MOST IMPORTANT PART OF CODING
 just spend 10 minutes working ou twhat ur going to do
