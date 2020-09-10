@@ -132,4 +132,4 @@ Is the shortest path moved in a particular direction
 - Unit of time is usually s
   [[https://i.imgur.com/IH97XQq.png]]
 - *THIS EQUATION ONLY WORKS WHEN ACCELERATION IS UNIFORM*
-- e.g. a car accelerates from rest, for 10s the acceleration is 5ms^-2. What is the final velocity of the car
+- e.g. a car accelerates from rest, for 10s the acceleration is 5ms^-2. What is the final velocity of the car?
