@@ -32,6 +32,8 @@ e.g. Japan, Australia, The Netherlands
   + *Size* (village, town, neighbourhood, city, district, country)
   + *Connections* (infrastructure, development, similarities)
 - *Processes* are human or physical mechanisms of change, such as migration or weathering. They operate on varying timescales. Linear systems, circular systems, and complex systems are all outcomes of the way in which processes operate and interact
+  + *Change* caused by human or physical factors or both
+  + *Temporal* Processes may be fast or slow, sporadic or consistent
 - *Power* is the ability to influence and affect change or equilibrium at different scales. Power is vested in citizens, governments, institutions and other players, and in physical processes in the natural world. Equty and security, botht environmental and economic, can be gained or lost as a result of the interaction of powerful forces
 - *Possibilities* are the alternative events, futures, and outcomes that geographers can model, project or predict with varying degrees of certainty. Key contemporary questions include teh degree to which human and environmental systems are sustainable and resilient and can adapt or change
 ** Don't Panic -- Hans Rosling showing the facts about population Notes :documentary:
