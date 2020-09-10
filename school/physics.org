@@ -126,3 +126,5 @@ Is the shortest path moved in a particular direction
 *_Uniform Acceleration_* (Uniform = doesn't change)
 
 - Acceleration is a measure of how much speed (or velocity) changes per unit time
+  [[https://i.imgur.com/NQJ4VM6.png]]
+- Unit of acceleration is usually ms^-2
