@@ -142,3 +142,5 @@ In real life, acceleration is not normally uniform (constant).
 Instantaneous velocity is defined as displacement/time when time is a very small number
 i.e.
 a = dv/dt
+
+From a distance time graph, velodity is the gradient of the graph at a point. Similar for a velocity time graph the gradient will be acceleration
