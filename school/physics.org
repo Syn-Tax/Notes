@@ -143,4 +143,4 @@ Instantaneous velocity is defined as displacement/time when time is a very small
 i.e.
 [[https://i.imgur.com/k491Sz9.png]]
 
-From a distance time graph, velodity is the gradient of the graph at a point. Similar for a velocity time graph the gradient will be acceleration
+From a distance time graph, velocity is the gradient of the graph at a point. Similar for a velocity time graph the gradient will be acceleration
