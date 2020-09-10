@@ -140,3 +140,5 @@ Is the shortest path moved in a particular direction
 In real life, acceleration is not normally uniform (constant).
 
 Instantaneous velocity is defined as displacement/time when time is a very small number
+i.e.
+a = dv/dt
