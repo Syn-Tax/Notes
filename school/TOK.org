@@ -15,3 +15,7 @@
   + Assertion changea with language however proposition doesn't
 - Belief is when you take a propositional attitude is truth (i.e. you think it is true)
 - the traditional def. of knowledge is justified belief
+- Justification - evidence or other support of belief
+- testimony - taking someone's word for it
+  + i.e. books or new reports
+- First person experience is somewhat self explanatory
