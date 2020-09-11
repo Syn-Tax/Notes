@@ -100,6 +100,8 @@ If no uncertainty is given, it will still be implied by the number of sig. figs.
     - mole (mol)
     - candela (cd)
   + These units are defined in terms of physical constants
+  + All remaining units are derived units
+  + Joule in terms of fundamental units
 ** Scalars & Vectors
 A *scalar* is a quantity what has a *magnitude* but no direction
 A *vector* is a quantity what has both *magnitude* and direction
