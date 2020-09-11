@@ -99,6 +99,7 @@ If no uncertainty is given, it will still be implied by the number of sig. figs.
     - Amperes (A)
     - mole (mol)
     - candela (cd)
+  + These units are defined in terms of physical constants
 ** Scalars & Vectors
 A *scalar* is a quantity what has a *magnitude* but no direction
 A *vector* is a quantity what has both *magnitude* and direction
