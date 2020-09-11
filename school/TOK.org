@@ -19,3 +19,4 @@
 - testimony - taking someone's word for it
   + i.e. books or new reports
 - First person experience is somewhat self explanatory
+- Gettier cases - situations in which you can have justified true beliefs but accidentally and therefore is not knowledge
