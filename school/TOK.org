@@ -11,4 +11,7 @@
 - there is a difference between an assertion and a proposition
   + Assertion - linguistic act either spoken or written that has a truth value
   + Proposition - the content of your assertion i.e. th eunderlying meaning of what your saying
-  + Truth value is the state of being true or false or indeterninate
+  + Truth value - the state of being true or false or indeterninate
+  + Assertion changea with language however proposition doesn't
+- Belief is when you take a propositional attitude is truth (i.e. you think it is true)
+- the traditional def. of knowledge is justified belief
