@@ -46,3 +46,4 @@ DEADLINE: <2020-09-07 Mon 09:00>
    f) Innen
 *** TODO Read the rest of the pdf after the questions done in class except Pg 24 until Pg 26
 DEADLINE: <2020-09-15 Tue>
+*** TODO Do the questions 1a & 1b on the AQA gb lenin sheet thingy
