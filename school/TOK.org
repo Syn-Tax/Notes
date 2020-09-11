@@ -9,4 +9,6 @@
 ** Video things
 - terms about knowledge are really well defined
 - there is a difference between an assertion and a proposition
--
+  + Assertion - linguistic act either spoken or written that has a truth value
+  + Proposition - the content of your assertion i.e. th eunderlying meaning of what your saying
+  + Truth value is the state of being true or false or indeterninate
