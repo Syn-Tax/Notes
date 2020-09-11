@@ -91,6 +91,14 @@ If no uncertainty is given, it will still be implied by the number of sig. figs.
 - coulomb per second
 - We only use about 6-7 base units
 - we use the SI units
+  + In the SI system there are 7 fundamental units
+    - metres (m)
+    - seconds (s)
+    - kilogram (kg)
+    - kelvin (K)
+    - Amperes (A)
+    - mole (mol)
+    - candela (cd)
 ** Scalars & Vectors
 A *scalar* is a quantity what has a *magnitude* but no direction
 A *vector* is a quantity what has both *magnitude* and direction
