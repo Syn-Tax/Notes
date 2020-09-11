@@ -6,3 +6,7 @@
 3 things that we feel we know
 1. I know this room has at least one radiator 2
 2. I know that I cannot know that anything is true 1
+** Video things
+- terms about knowledge are really well defined
+- there is a difference between an assertion and a proposition
+-
