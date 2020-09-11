@@ -87,7 +87,7 @@ If no uncertainty is given, it will still be implied by the number of sig. figs.
   Sometimes we need to go back to first principles
   + What is the uncertainty of sin(30+/-1 degrees)? for example
 ** Units
-- joule per second
+- mechanical horsepower
 - coulomb per second
 ** Scalars & Vectors
 A *scalar* is a quantity what has a *magnitude* but no direction
