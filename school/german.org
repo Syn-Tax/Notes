@@ -48,3 +48,13 @@ DEADLINE: <2020-09-07 Mon 09:00>
 DEADLINE: <2020-09-15 Tue>
 *** TODO Do the questions 1a & 1b on the AQA gb lenin sheet thingy
 DEADLINE: <2020-09-14 Mon>
+
+**** 1 a
+1) R
+2) R
+3) F
+4) F
+5) NA
+6) F
+7) R
+8) NA
