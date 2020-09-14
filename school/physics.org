@@ -89,6 +89,7 @@ If no uncertainty is given, it will still be implied by the number of sig. figs.
 *** Experimental Uncertainties
 GENERAL REMARKS
 - Variables should be tightly defined in experiments
+  + i.e. not 'length of pendulum', but 'length of pendulum, as measured from the centre of rotation to the centre of mass'
 ** Units
 - mechanical horsepower
 - coulomb per second
