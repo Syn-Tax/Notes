@@ -167,6 +167,8 @@ Economic classifications
 -
 **** Sectors of industry
 - LIC's primary industry is usually the primary sector
+- MIC's usually have more of a balance between tertiary and the others
+- HIC's usually have mostly tertiary industry
 
 ** 1.2
 ** 1.3
