@@ -1,4 +1,5 @@
 #+TITLE: German
+#+STARTUP: fold
 
 * Some writing
 ** 1.
