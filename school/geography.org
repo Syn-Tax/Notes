@@ -173,8 +173,10 @@ Economic classifications
 - MIC's usually have more of a balance between tertiary and the others
 - HIC's usually have mostly tertiary industry
 **** Core-Periphery Model
-[[https://kognity-prod.imgix.net/media/edusys_2/content_uploads/1.1.6.2.48c8ea762abde28a3a91.png?w=400&auto=compress]]
-
+[[https://kognity-prod.imgix.net/media/edusys_2/content_uploads/1.1.6.2.48c8ea762abde28a3a91.png]]
+- Developed by John Friedmann in 1963
+- It had the intention of explaining spacial differences
+- It can be applied to any scale: global, nationalor local
 ** 1.2
 ** 1.3
 * Unit 2: Core: Global climate - vulnerability & resilience
