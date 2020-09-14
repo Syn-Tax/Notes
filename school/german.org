@@ -34,6 +34,8 @@ Wegend der ganze Coronageschichte dachte ich dass das meiste gut gelaufen ist al
 | engagiert   | komisch   |
 | lustig      | naiv      |
 | glucklich   |           |
+*** 2
+
 * Erfarungen 2:2 eine kulinarische Reise
 * Erfarungen 2:3 Feste und Traditionen
 * Kommunikation und Medien - Fernsehen, Kino, Werbung
@@ -46,7 +48,7 @@ Wegend der ganze Coronageschichte dachte ich dass das meiste gut gelaufen ist al
 * Erfahrungen 2:1 Praegende Einfluesse
 * Hausaufgaben
 ** Aug
-*** DONE Das Ding wass per email geschiked worde lesen
+*** DONE Das Ding wass per email geschiged worde lesen
 DEADLINE: <2020-09-08 Tue 10:20>
 *** DONE Do questions 1-4 & read thingy on PG 75-77
 DEADLINE: <2020-09-07 Mon 09:00>
