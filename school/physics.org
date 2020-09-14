@@ -94,6 +94,7 @@ GENERAL REMARKS
 TYPES OF ERRORS
 - *Systematic error* - the error is consistently wrong for all measurements in the same direction e.g. units, parallax error when measuring, zero errors (rulers, balances)
 - *Random Error* - an error which is random
+- *Reading error* - usually half of the smallest division
 ** Units
 - mechanical horsepower
 - coulomb per second
