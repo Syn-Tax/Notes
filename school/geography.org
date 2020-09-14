@@ -40,6 +40,10 @@ e.g. Japan, Australia, The Netherlands
 - *Possibilities* are the alternative events, futures, and outcomes that geographers can model, project or predict with varying degrees of certainty. Key contemporary questions include teh degree to which human and environmental systems are sustainable and resilient and can adapt or change
 *** Primary Sector
 extraction of natural resources (labour intensive)
+*** Secondary Sector
+- Processing of natrual resources i.e. manufacturing
+*** Tertiary Sector
+*** Quarternary Sector
 ** Don't Panic -- Hans Rosling showing the facts about population Notes :documentary:
 - population grew slowly until 1800 where pop became 1 billion
 - with the industrial revolution it rose exponentially to 2 billion in just 100 years
