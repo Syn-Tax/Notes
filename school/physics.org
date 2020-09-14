@@ -92,7 +92,7 @@ GENERAL REMARKS
   + i.e. not 'length of pendulum', but 'length of pendulum, as measured from the centre of rotation to the centre of the mass'
 
 TYPES OF ERRORS
-- *Systematic error* - the error is consistently wrong for all measurements in the same direction e.g. units, parallax error when measuring
+- *Systematic error* - the error is consistently wrong for all measurements in the same direction e.g. units, parallax error when measuring, zero errors (rulers, balances)
 - *Random Error* - an error which is random
 ** Units
 - mechanical horsepower
