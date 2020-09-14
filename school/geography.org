@@ -45,6 +45,7 @@ e.g. Japan, Australia, The Netherlands
 *** Tertiary Sector
 - Providing services to customers i.e. schools, restaurants
 *** Quarernary Sector
+- the knowledge based economic sector i.e. IT, research, media
 ** Don't Panic -- Hans Rosling showing the facts about population Notes :documentary:
 - population grew slowly until 1800 where pop became 1 billion
 - with the industrial revolution it rose exponentially to 2 billion in just 100 years
