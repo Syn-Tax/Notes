@@ -81,6 +81,11 @@ DEADLINE: <2020-09-15 Tue>
 1) b
 2) c
 **** Pg 18
+1) c
+2) b
+**** Pg 19
+oft falsch gelaufen
+**** Pg 20
 
 *** DONE Do the questions 1a & 1b on the AQA gb lenin sheet thingy
 DEADLINE: <2020-09-14 Mon>
