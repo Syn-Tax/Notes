@@ -177,6 +177,8 @@ Economic classifications
 - Developed by John Friedmann in 1963
 - It had the intention of explaining spacial differences
 - It can be applied to any scale: global, nationalor local
+- The core is categorised by:
+  + a well devloped prosperous area whith a sound economic base in secondary and tertiary industry
 ** 1.2
 ** 1.3
 * Unit 2: Core: Global climate - vulnerability & resilience
