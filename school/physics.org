@@ -97,7 +97,7 @@ TYPES OF ERRORS
 - *Reading error* - usually half of the smallest division
 
 ACCURACY & PRESICION
-- Accurate measurements are close to the true value
+- Accurate measurements are close to the true value. They have low systematic error
 - Precise values are close together
 ** Units
 - mechanical horsepower
