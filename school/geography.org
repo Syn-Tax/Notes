@@ -5,8 +5,6 @@
 ** Key Terms
 *** North-South divide
 The increasing inequality in levels of development between the North and the South or between HICs and LICs.
-*** Primary Sector
-extraction of natural resources (labour intensive)
 *** Development gap
 The difference in wealth between the developed world (North) and the devloping world (south).
 *** OPEC
@@ -40,6 +38,8 @@ e.g. Japan, Australia, The Netherlands
   + *Relationships* Processes can affect places at different scales via *spatial interaction*.
 - *Power* is the ability to influence and affect change or equilibrium at different scales. Power is vested in citizens, governments, institutions and other players, and in physical processes in the natural world. Equty and security, botht environmental and economic, can be gained or lost as a result of the interaction of powerful forces
 - *Possibilities* are the alternative events, futures, and outcomes that geographers can model, project or predict with varying degrees of certainty. Key contemporary questions include teh degree to which human and environmental systems are sustainable and resilient and can adapt or change
+*** Primary Sector
+extraction of natural resources (labour intensive)
 ** Don't Panic -- Hans Rosling showing the facts about population Notes :documentary:
 - population grew slowly until 1800 where pop became 1 billion
 - with the industrial revolution it rose exponentially to 2 billion in just 100 years
@@ -159,6 +159,8 @@ Economic classifications
 - until now yes
 - recent research shows it might actually start shrinking well before 2100
 -
+**** Sectors of industry
+- LIC's primary industry is usually the primary sector
 
 ** 1.2
 ** 1.3
