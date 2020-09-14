@@ -74,7 +74,7 @@ DEADLINE: <2020-09-07 Mon 09:00>
    d) Park
    e) Kinderbauernhof
    f) Innen
-*** TODO Read the rest of the pdf after the questions done in class except Pg 24 until Pg 26
+*** DONE Read the rest of the pdf after the questions done in class except Pg 24 until Pg 26
 DEADLINE: <2020-09-15 Tue>
 
 **** Pg 17
@@ -88,6 +88,9 @@ oft falsch gelaufen
 **** Pg 20
 Die Wachposten mussten ueber die mauer gucken und sie hatten den bewies to schiessen fals irgendjemand ueber die mauer wollte.
 **** Pg 26
+Liebe Tante,
+Du hast sicher gehoert dass vor ein paar tagen die Mauer in Berlin gefallen ist und die Grenzen wieder geoeffnet sind. Persoenlich finde ich das sehr beruhigend das wir jetzt ueber ganz deutschland leicht reisen koennen und entlich euch wieder sehen zu koennen.
+Liebe Gruesse Oscar
 *** DONE Do the questions 1a & 1b on the AQA gb lenin sheet thingy
 DEADLINE: <2020-09-14 Mon>
 
