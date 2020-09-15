@@ -42,7 +42,8 @@
 - they use the ASK corpus of Norwegian learner language with CEFR labels
 - they compare using CNNs ang Gated-RNNs
 - The dataset contains norwegian learner essays from two different language tests
-- the dataset contains information about mistakes, corrections, paragraphs and mistakes
+- the dataset contains information about mistakes, corrections, paragraphs and sentences
+- reported metrics are macro and micro F1
 *** [[./cs/NN_For_Automated_Essay_Grading.pdf][Neural Networks for Automated Essay Grading]] :Paper:ReadAgain:
 *** [[https://raw.githubusercontent.com/shubhpawar/Automated-Essay-Scoring/master/essays_and_scores.csv][Kaggle essay dataset]] :dataset:
 ** TODO Read about zero-shot learning with gpt 3
