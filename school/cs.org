@@ -46,6 +46,7 @@
 - reported metrics are macro and micro F1
 - a disadvantage with using regression is that the distance between different classes is not always known
 - they will further experiment with pretrained word embeddings
+- they used a wide range of NN models for both CNN and RNN
 *** [[./cs/NN_For_Automated_Essay_Grading.pdf][Neural Networks for Automated Essay Grading]] :Paper:ReadAgain:
 *** [[https://raw.githubusercontent.com/shubhpawar/Automated-Essay-Scoring/master/essays_and_scores.csv][Kaggle essay dataset]] :dataset:
 ** TODO Read about zero-shot learning with gpt 3
