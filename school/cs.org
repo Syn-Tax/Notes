@@ -23,11 +23,11 @@
 - Manual exaluation takes ~60 seconds, automated takes ~15 seconds therefore 300% more time efficient
 - The system is about 17-87.5% accurate compared to manual marking
 - The automated system was generally either the same or slightly lower
-*** [[./cs/Automatic_Short_Answer_marking.pdf][Automatic Stort Answer Marking]] :Paper:ReadAgain:
+*** [[./cs/Automatic_Short_Answer_marking.pdf][Automatic Stort Answer Marking]] :Paper:read:
 **** Introduction
 - They are using short (3 mark) GCSE questions which are long enough to have many answers
 - They use machine learning to write linguistic patterns for each question based on sample answers
-*** [[./cs/AutomatedExaminationGradingUsingDeepLearningCategorizationTechniques.pdf][Automatic Examination Grading Using Deep Learning Categorisation Techniques]] :Paper:ReadAgain:
+*** [[./cs/AutomatedExaminationGradingUsingDeepLearningCategorizationTechniques.pdf][Automatic Examination Grading Using Deep Learning Categorisation Techniques]] :Paper:read:
 - It is using exams from the Chinese version of the SAT (TOEFL)
 - They used the ResNet-18 ConvNet on the ImageNet pre-training dataset based on image data
 - They convert the problem into a multi-class task
@@ -38,9 +38,9 @@
   + in general an accuracy of about 85% was achieved over a 10 scores error and approx. 95% over a 20 scores error
   + for each subject there are different accuracies
     - the accuracy is highest for chinese, english
-*** [[./cs/AutomatedEssayGrading.pdf][Automated Essay Grading using Machine Learning Algorithm]] :Paper:Unread:
--
 *** [[./cs/Automatic_Essay_Grading_Norwegian.pdf][Regression or classification in Norwegian]] :Paper:ReadAgain:
+- they use the ASK corpus of Norwegian learner language with CEFR labels
+-
 *** [[./cs/NN_For_Automated_Essay_Grading.pdf][Neural Networks for Automated Essay Grading]] :Paper:ReadAgain:
 *** [[https://raw.githubusercontent.com/shubhpawar/Automated-Essay-Scoring/master/essays_and_scores.csv][Kaggle essay dataset]] :dataset:
 ** TODO Read about zero-shot learning with gpt 3
