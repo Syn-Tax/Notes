@@ -48,6 +48,14 @@
 - they will further experiment with pretrained word embeddings
 - they used a wide range of NN models for both CNN and RNN
 *** [[./cs/NN_For_Automated_Essay_Grading.pdf][Neural Networks for Automated Essay Grading]] :Paper:ReadAgain:
+*** [[./cs/BERT.pdf][BERT]] :Paper:unread:model:
+*** [[./cs/XLNet.pdf][XLNet]] :Paper:unread:model:
+*** [[./cs/VisualAttention.pdf][Visual Attention]] :Paper:unread:technology:
+*** [[./cs/HirarcicalAttention.pdf][Hirarchical Attention]] :Paper:unread:technology:
+*** [[./cs/Transformer.pdf][Transformer]] :Paper:unread:technology:
+*** [[https://www.youtube.com/watch?v=Q57rzaHHO0k][Attention and Memory in Deep Learning (DeepMind)]] :video:
+*** [[https://www.youtube.com/watch?v=IxQtK2SjWWM][NMT and Models with Attention]] :video:
+*** [[https://www.youtube.com/watch?v=quoGRI-1l0A&t=130s][Attention Model (Andrew Ng)]] :video:
 *** [[https://raw.githubusercontent.com/shubhpawar/Automated-Essay-Scoring/master/essays_and_scores.csv][Kaggle essay dataset]] :dataset:
 ** TODO Read about zero-shot learning with gpt 3
 * Intro to programming
