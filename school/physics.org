@@ -189,3 +189,5 @@ c) constant acceleration moving in opposite direction
 d) increasing acceleration (constant jerk)
 e) decreasing acceleration (constant jerk)
 x) at rest
+** Motion under uniform acceleration
+- Uniform = doesn't change
