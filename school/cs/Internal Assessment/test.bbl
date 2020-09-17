@@ -18,7 +18,7 @@
 
 
 \refsection{0}
-  \datalist[entry]{nty/global//global/global}
+  \datalist[entry]{none/global//global/global}
     \entry{devlin2019}{article}{}
       \name{author}{4}{}{%
         {{hash=13202969e372bc82318f9629cbdd199b}{%
@@ -45,14 +45,14 @@
       \list{language}{1}{%
         {en}%
       }
-      \strng{namehash}{ad8e2e2a80d28ade21e86852b804fc9b}
+      \strng{namehash}{760df5af1463fdc901455117e4fefd96}
       \strng{fullhash}{e8bccd48302a14eeba57d9dce2f49ef4}
-      \strng{bibnamehash}{ad8e2e2a80d28ade21e86852b804fc9b}
-      \strng{authorbibnamehash}{ad8e2e2a80d28ade21e86852b804fc9b}
-      \strng{authornamehash}{ad8e2e2a80d28ade21e86852b804fc9b}
+      \strng{bibnamehash}{e8bccd48302a14eeba57d9dce2f49ef4}
+      \strng{authorbibnamehash}{e8bccd48302a14eeba57d9dce2f49ef4}
+      \strng{authornamehash}{760df5af1463fdc901455117e4fefd96}
       \strng{authorfullhash}{e8bccd48302a14eeba57d9dce2f49ef4}
-      \field{sortinit}{D}
-      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{We introduce a new language representation model called BERT, which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models (Peters et al., 2018a; Radford et al., 2018), BERT is designed to pretrain deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context in all layers. As a result, the pre-trained BERT model can be finetuned with just one additional output layer to create state-of-the-art models for a wide range of tasks, such as question answering and language inference, without substantial taskspecific architecture modifications.}
