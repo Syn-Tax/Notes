@@ -18,33 +18,29 @@
 
 
 \refsection{0}
-  \datalist[entry]{nyt/global//global/global}
+  \datalist[entry]{nty/global//global/global}
     \entry{devlin2019}{article}{}
       \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=13202969e372bc82318f9629cbdd199b}{%
+        {{hash=13202969e372bc82318f9629cbdd199b}{%
            family={Devlin},
            familyi={D\bibinitperiod},
            given={Jacob},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a45784fe7163b45f11d166564f5d24b6}{%
+           giveni={J\bibinitperiod}}}%
+        {{hash=a45784fe7163b45f11d166564f5d24b6}{%
            family={Chang},
            familyi={C\bibinitperiod},
            given={Ming-Wei},
-           giveni={M\bibinithyphendelim W\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8dde73b4194f5bc4230c4808f3fc1534}{%
+           giveni={M\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=8dde73b4194f5bc4230c4808f3fc1534}{%
            family={Lee},
            familyi={L\bibinitperiod},
            given={Kenton},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b92aa283415413bb8d2a1548716d0c7d}{%
+           giveni={K\bibinitperiod}}}%
+        {{hash=b92aa283415413bb8d2a1548716d0c7d}{%
            family={Toutanova},
            familyi={T\bibinitperiod},
            given={Kristina},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
+           giveni={K\bibinitperiod}}}%
       }
       \list{language}{1}{%
         {en}%
@@ -57,8 +53,6 @@
       \strng{authorfullhash}{e8bccd48302a14eeba57d9dce2f49ef4}
       \field{sortinit}{D}
       \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{We introduce a new language representation model called BERT, which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models (Peters et al., 2018a; Radford et al., 2018), BERT is designed to pretrain deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context in all layers. As a result, the pre-trained BERT model can be finetuned with just one additional output layer to create state-of-the-art models for a wide range of tasks, such as question answering and language inference, without substantial taskspecific architecture modifications.}
