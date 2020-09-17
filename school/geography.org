@@ -202,6 +202,7 @@ Economic classifications
 - Social progress is defined as the capacity of a society to meet the basic human needs, establish the building blocks to allow citizens and communities to enhance and sustain the quality of their lives and create the potential for individuas to reach their full potential
 - The SP index combines 50 different social and environmental indicators to quantify social progress (it doesn't measure happiness or life satisfaction focusing on actual life outcomes)
 - This started with a National Income report presented to the US congress which later became GDP
+  + In the first report it states that GDP is a tool to measure an economy but not wellbeing, we ignored it
 ***** Who is behind it?
 - The Social Progress Imperative is a non-profit organisation which measures social progress to improve the social and environmental conditions in various countries and across the planet
 ***** Advantages
