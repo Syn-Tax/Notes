@@ -1,7 +1,6 @@
 #+TITLE: Test
 #+AUTHOR: <Your Name Here
 #+BIBLIOGRAPHY: bibliography.bib
-#+latex_header: \usepackage[bibstyle=ieeetr, hyperref=true,backref=true,maxcitenames=3,url=true,backend=biber,natbib=true] {biblatex}
 #+latex_header: \addbibresource{bibliography.bib}
 
 * Abstract
