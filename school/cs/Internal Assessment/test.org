@@ -1,7 +1,7 @@
 #+TITLE: Test
 #+AUTHOR: <Your Name Here
 #+BIBLIOGRAPHY: bibliography.bib
-#+latex_header: \usepackage[citestyle=authoryear-icomp,bibstyle=plain, hyperref=true,backref=true,maxcitenames=3,url=true,backend=biber,natbib=true] {biblatex}
+#+latex_header: \usepackage[bibstyle=chicago, hyperref=true,backref=true,maxcitenames=3,url=true,backend=biber,natbib=true] {biblatex}
 #+latex_header: \addbibresource{bibliography.bib}
 
 * Abstract
