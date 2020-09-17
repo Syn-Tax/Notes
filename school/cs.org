@@ -105,3 +105,22 @@ just spend 10 minutes working ou twhat ur going to do
   + tilt/accelerometers
   + biometrics
   + motion/gestures
+** Types of Actuators
+- temperature
+  + heating/cooling
+- motion
+  + motors
+  + servos
+  + hydraulics
+  + pumps
+- noise/vibration
+  + buzzer
+  + siren
+- analogue diaplays
+  + dials
+  + meters
+  + guages
+- displays/light
+  + screens
+  + bulbs
+  + LEDs
