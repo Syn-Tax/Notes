@@ -32,7 +32,7 @@
     "hyperref"
     "babel")
    (LaTeX-add-labels
-    "sec:org645c0a9")
+    "sec:org15dca7d")
    (LaTeX-add-bibliographies
     "bibliography"))
  :latex)
