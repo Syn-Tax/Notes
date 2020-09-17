@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1600379371 "test.tex" "test.pdf" "test" 1600379371
+["pdflatex"] 1600379725 "test.tex" "test.pdf" "test" 1600379725
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1591545468 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm1095.tfm" 1591545468 3584 929cdff2b7a8c11bd4d49fd68cb0ae70 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1591545468 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -67,7 +67,7 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1591545468 33301 a3134070eacafb10b1f371612ce2650d ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1600343875 2514050 2c82612a252d89c15fd8889e9374b201 ""
   "test.aux" 1600379246 8 a94a2480d3289e625eea47cd1b285758 ""
-  "test.tex" 1600379371 1569 0757f3fc53fae427e6e2baa5cadd8850 ""
+  "test.tex" 1600379725 1572 1372e63e89d4e8f4d3c5ae3e1b861871 ""
   (generated)
   "test.pdf"
   "test.log"
