@@ -19,5 +19,6 @@ Latex and org-mode both interpret a single empty line as a paragraph break, so t
 
 cite:devlin2019
 * Bibliography
+#+latex: \printbibliography
 bibliographystyle:plain
 bibliography:bibliography.bib
