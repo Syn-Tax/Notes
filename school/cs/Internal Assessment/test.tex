@@ -1,4 +1,4 @@
-% Created 2020-09-17 Thu 23:27
+% Created 2020-09-17 Thu 23:28
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -16,7 +16,7 @@
 \usepackage{hyperref}
 \usepackage {apacite}
 \bibliography{bibliography}
-\bibliographystyle{plain}
+\bibliographystyle{apalike}
 \author{<Your Name Here}
 \date{\today}
 \title{Test}
@@ -32,10 +32,9 @@
 \maketitle
 \tableofcontents
 
-\#\#+latex\textsubscript{header}: \usepackage[english]{babel}
 
 \section{Abstract}
-\label{sec:orga7fac6e}
+\label{sec:org495973d}
 
 You cannot use an org-mode header here.
 If you do, it trashes the table of contents for the apa6 document class.
@@ -50,6 +49,4 @@ Latex and org-mode both interpret a single empty line as a paragraph break, so t
 
 \cite{devlin2019}
 \printbibliography
-@\#+latex: \bibliographystyle{plain}
-@\#+latex: \bibliography{bibliography}
 \end{document}

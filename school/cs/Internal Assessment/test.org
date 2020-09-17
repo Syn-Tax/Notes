@@ -1,10 +1,9 @@
 #+TITLE: Test
 #+AUTHOR: <Your Name Here
 #+BIBLIOGRAPHY: bibliography.bib
-##+latex_header: \usepackage[english]{babel}
 #+latex_header: \usepackage {apacite}
 #+latex_header: \bibliography{bibliography}
-#+latex_header: \bibliographystyle{plain}
+#+latex_header: \bibliographystyle{apalike}
 
 * Abstract
 
@@ -21,5 +20,3 @@ Latex and org-mode both interpret a single empty line as a paragraph break, so t
 
 cite:devlin2019
 #+latex: \printbibliography
-@#+latex: \bibliographystyle{plain}
-@#+latex: \bibliography{bibliography}

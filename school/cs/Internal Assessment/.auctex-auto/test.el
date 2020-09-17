@@ -4,7 +4,7 @@
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("article" "11pt")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("inputenc" "utf8") ("fontenc" "T1") ("ulem" "normalem") ("babel" "english")))
+                     '(("inputenc" "utf8") ("fontenc" "T1") ("ulem" "normalem")))
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
@@ -29,10 +29,9 @@
     "textcomp"
     "amssymb"
     "capt-of"
-    "hyperref"
-    "babel")
+    "hyperref")
    (LaTeX-add-labels
-    "sec:orga7fac6e")
+    "sec:org495973d")
    (LaTeX-add-bibliographies
     "bibliography"))
  :latex)
