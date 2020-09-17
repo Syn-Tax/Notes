@@ -1,0 +1,248 @@
+% Created 2020-09-17 Thu 12:47
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{Oscar Morris}
+\date{\today}
+\title{Computer Science}
+\hypersetup{
+ pdfauthor={Oscar Morris},
+ pdftitle={Computer Science},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 27.1 (Org mode 9.4)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+
+\section{Internal Assessment}
+\label{sec:org07bb5d0}
+\subsection{Research/literature}
+\label{sec:org4a29c24}
+\subsubsection{\href{./cs/Answer\_Evaluation\_with\_ML.pdf}{Answer Evaluation Using Machine Learning}\hfill{}\textsc{Paper:read}}
+\label{sec:org76feeec}
+\begin{enumerate}
+\item Introduction
+\label{sec:orgc9af748}
+\begin{itemize}
+\item due to the fact that checking answers requires high concentration and often leads to mistakes and also there are human biases which would hopefully be removed (this needs good training data though)
+\item Automated answer grading is also significantly more efficient than doing it manually
+\end{itemize}
+\item Algorithm
+\label{sec:orga507f99}
+\begin{itemize}
+\item The Model uses multiple hidden layers
+\item For each layer they are using the ReLU activation function defined as \texttt{f(x)=max(0,x)}
+\item Their algorithm will also take the length of the answer into account with the teacher giving an ideal answer length
+\end{itemize}
+\item Methodology
+\label{sec:orgd19b380}
+\begin{itemize}
+\item They scan the input and use ocr to to split the answer into keywords
+\item Steps to evaluate Answer
+\begin{itemize}
+\item Provide Answer Sheet in image
+\item Provide keywords
+\item The system will separate words from the given answer
+\item check num.of words to desired length
+\item check amount of keywords
+\end{itemize}
+\end{itemize}
+\item Results
+\label{sec:org6ace07a}
+\begin{itemize}
+\item Manual exaluation takes \textasciitilde{}60 seconds, automated takes \textasciitilde{}15 seconds therefore 300\% more time efficient
+\item The system is about 17-87.5\% accurate compared to manual marking
+\item The automated system was generally either the same or slightly lower
+\end{itemize}
+\end{enumerate}
+\subsubsection{\href{./cs/Automatic\_Short\_Answer\_marking.pdf}{Automatic Stort Answer Marking}\hfill{}\textsc{Paper:read}}
+\label{sec:org5bf733b}
+\begin{enumerate}
+\item Introduction
+\label{sec:orge63d416}
+\begin{itemize}
+\item They are using short (3 mark) GCSE questions which are long enough to have many answers
+\item They use machine learning to write linguistic patterns for each question based on sample answers
+\end{itemize}
+\end{enumerate}
+\subsubsection{\href{./cs/AutomatedExaminationGradingUsingDeepLearningCategorizationTechniques.pdf}{Automatic Examination Grading Using Deep Learning Categorisation Techniques}\hfill{}\textsc{Paper:read}}
+\label{sec:org8941ae6}
+\begin{itemize}
+\item It is using exams from the Chinese version of the SAT (TOEFL)
+\item They used the ResNet-18 ConvNet on the ImageNet pre-training dataset based on image data
+\item They convert the problem into a multi-class task
+\begin{itemize}
+\item label the datadet as a single image with a score-range label
+\end{itemize}
+\item Dataset construction
+\begin{itemize}
+\item They signed a confidentiality agreement with a high school
+\end{itemize}
+\item results
+\begin{itemize}
+\item in general an accuracy of about 85\% was achieved over a 10 scores error and approx. 95\% over a 20 scores error
+\item for each subject there are different accuracies
+\begin{itemize}
+\item the accuracy is highest for chinese, english
+\end{itemize}
+\end{itemize}
+\end{itemize}
+\subsubsection{\href{./cs/Automatic\_Essay\_Grading\_Norwegian.pdf}{Regression or classification in Norwegian}\hfill{}\textsc{Paper:ReadAgain}}
+\label{sec:org339477a}
+\begin{itemize}
+\item they use the ASK corpus of Norwegian learner language with CEFR labels
+\item they compare using CNNs ang Gated-RNNs
+\item The dataset contains norwegian learner essays from two different language tests
+\item the dataset contains information about mistakes, corrections, paragraphs and sentences
+\item reported metrics are macro and micro F1
+\item a disadvantage with using regression is that the distance between different classes is not always known
+\item they will further experiment with pretrained word embeddings
+\item they used a wide range of NN models for both CNN and RNN
+\end{itemize}
+\subsubsection{\href{./cs/NN\_For\_Automated\_Essay\_Grading.pdf}{Neural Networks for Automated Essay Grading}\hfill{}\textsc{Paper:ReadAgain}}
+\label{sec:orgcdaa187}
+\subsubsection{\href{./cs/BERT.pdf}{BERT}\hfill{}\textsc{Paper:unread:model}}
+\label{sec:orga29ba21}
+\subsubsection{\href{./cs/XLNet.pdf}{XLNet}\hfill{}\textsc{Paper:unread:model}}
+\label{sec:orgbf8544b}
+\subsubsection{\href{./cs/VisualAttention.pdf}{Visual Attention}\hfill{}\textsc{Paper:unread:technology}}
+\label{sec:org03e9e15}
+\subsubsection{\href{./cs/HirarcicalAttention.pdf}{Hirarchical Attention}\hfill{}\textsc{Paper:unread:technology}}
+\label{sec:org7eacb9f}
+\subsubsection{\href{./cs/Transformer.pdf}{Transformer}\hfill{}\textsc{Paper:unread:technology}}
+\label{sec:org7a118af}
+\subsubsection{\href{https://www.youtube.com/watch?v=Q57rzaHHO0k}{Attention and Memory in Deep Learning (DeepMind)}\hfill{}\textsc{video}}
+\label{sec:orgd6e0e8d}
+\subsubsection{\href{https://www.youtube.com/watch?v=IxQtK2SjWWM}{NMT and Models with Attention}\hfill{}\textsc{video}}
+\label{sec:org6a9ccf5}
+\subsubsection{\href{https://www.youtube.com/watch?v=quoGRI-1l0A\&t=130s}{Attention Model (Andrew Ng)}\hfill{}\textsc{video}}
+\label{sec:org61ae317}
+\subsubsection{\href{https://raw.githubusercontent.com/shubhpawar/Automated-Essay-Scoring/master/essays\_and\_scores.csv}{Kaggle essay dataset}\hfill{}\textsc{dataset}}
+\label{sec:org5117b9e}
+\section{Intro to programming}
+\label{sec:orgc7f9e81}
+\subsection{DESIGN IS THE MOST IMPORTANT PART OF CODING}
+\label{sec:org582d333}
+just spend 10 minutes working ou twhat ur going to do
+\section{Control Systems}
+\label{sec:org15acbae}
+\subsection{Definition}
+\label{sec:orgac8daf6}
+\begin{itemize}
+\item Any computer that manages, commands, directs or regulates the behavior o fother devices or systems
+\begin{itemize}
+\item They usually take in input, process it and output some output
+\item open loop vs. closed loop i.e. the main two types of control systems
+\end{itemize}
+\end{itemize}
+\subsubsection{Open Loop systems}
+\label{sec:org6823171}
+\begin{itemize}
+\item input -> controller -> output -> Actuator -> Process
+\end{itemize}
+\subsubsection{Closed Loop systems}
+\label{sec:orge14acfa}
+\begin{itemize}
+\item must have some sort of sensor \& feedback loop
+\item Sensor -> Controller -> Actuator -> Process = change in condition which the sensor will respond to and change the input
+\item e.g. heating system
+\end{itemize}
+\subsection{Examples}
+\label{sec:org697541e}
+\begin{itemize}
+\item automatic door openers
+\item central heating system
+\item washing machines
+\item in factories
+\item traffic lights
+\item lifts in buildings
+\item GPS systems
+\item most modern cars
+\item device drivers within oses
+\item intelligent devices e.g. alexa, siri, cortana, google assistant
+\end{itemize}
+\subsection{Types of Sensors}
+\label{sec:orgc3e558c}
+\begin{itemize}
+\item motion detectors
+\begin{itemize}
+\item ultrasound
+\item IR
+\end{itemize}
+\item climate control sensors
+\begin{itemize}
+\item thermostat
+\item humidity
+\item light
+\end{itemize}
+\item security
+\begin{itemize}
+\item heat
+\item smoke
+\item sound
+\end{itemize}
+\item process
+\begin{itemize}
+\item pressure
+\item pH
+\item motion
+\item position (camera)
+\end{itemize}
+\item intelligent systems
+\begin{itemize}
+\item voice
+\item touch
+\item tilt/accelerometers
+\item biometrics
+\item motion/gestures
+\end{itemize}
+\end{itemize}
+\subsection{Types of Actuators}
+\label{sec:org9ece385}
+\begin{itemize}
+\item temperature
+\begin{itemize}
+\item heating/cooling
+\end{itemize}
+\item motion
+\begin{itemize}
+\item motors
+\item servos
+\item hydraulics
+\item pumps
+\end{itemize}
+\item noise/vibration
+\begin{itemize}
+\item buzzer
+\item siren
+\end{itemize}
+\item analogue diaplays
+\begin{itemize}
+\item dials
+\item meters
+\item guages
+\end{itemize}
+\item displays/light
+\begin{itemize}
+\item screens
+\item bulbs
+\item LEDs
+\end{itemize}
+\end{itemize}
+\end{document}
