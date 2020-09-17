@@ -1,5 +1,6 @@
 #+TITLE: Test
 #+AUTHOR: <Your Name Here
+#+BIBLIOGRAPHY: bibliography.bib
 bibliography:bibliography.bib
 
 
