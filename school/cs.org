@@ -57,7 +57,6 @@
 *** [[https://www.youtube.com/watch?v=IxQtK2SjWWM][NMT and Models with Attention]] :video:
 *** [[https://www.youtube.com/watch?v=quoGRI-1l0A&t=130s][Attention Model (Andrew Ng)]] :video:
 *** [[https://raw.githubusercontent.com/shubhpawar/Automated-Essay-Scoring/master/essays_and_scores.csv][Kaggle essay dataset]] :dataset:
-** TODO Read about zero-shot learning with gpt 3
 * Intro to programming
 ** DESIGN IS THE MOST IMPORTANT PART OF CODING
 just spend 10 minutes working ou twhat ur going to do
