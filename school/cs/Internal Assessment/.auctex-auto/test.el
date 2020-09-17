@@ -29,7 +29,6 @@
     "textcomp"
     "amssymb"
     "capt-of"
-    "apacite"
     "hyperref"
     "biblatex")
    (LaTeX-add-labels
