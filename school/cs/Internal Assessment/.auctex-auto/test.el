@@ -29,9 +29,10 @@
     "textcomp"
     "amssymb"
     "capt-of"
-    "hyperref")
+    "hyperref"
+    "apacite")
    (LaTeX-add-labels
-    "sec:org495973d")
+    "sec:org7d0687d")
    (LaTeX-add-bibliographies
     "bibliography"))
  :latex)
