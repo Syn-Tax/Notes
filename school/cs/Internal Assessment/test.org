@@ -1,8 +1,6 @@
 #+TITLE: Test
 #+AUTHOR: <Your Name Here
 #+BIBLIOGRAPHY: bibliography.bib
-#+latex_header: \usepackage[bibstyle=numeric, hyperref=true,backref=true,maxcitenames=3,url=true,backend=biber,natbib=true] {biblatex}
-#+latex_header: \addbibresource{bibliography.bib}
 
 * Abstract
 
@@ -19,4 +17,5 @@ Latex and org-mode both interpret a single empty line as a paragraph break, so t
 
 cite:devlin2019
 * Bibliography
-bibliography:bibliography.bib
+bibliographystyle:plain
+bibliography:bibliography
