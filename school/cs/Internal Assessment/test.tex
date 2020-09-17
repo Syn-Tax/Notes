@@ -1,4 +1,4 @@
-% Created 2020-09-17 Thu 23:19
+% Created 2020-09-17 Thu 23:20
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -14,6 +14,8 @@
 \usepackage{amssymb}
 \usepackage{capt-of}
 \usepackage{hyperref}
+\bibliography{bibliography}
+\bibliographystyle{plain}
 \author{<Your Name Here}
 \date{\today}
 \title{Test}
@@ -31,11 +33,9 @@
 
 \#\#+latex\textsubscript{header}: \usepackage[english]{babel}
 \#\#+latex\textsubscript{header}: \usepackage \{biblatex\}
-\#\#+latex\textsubscript{header}: \bibliography{bibliography}
-\#\#+latex\textsubscript{header}: \bibliographystyle{plain}
 
 \section{Abstract}
-\label{sec:org1255e1d}
+\label{sec:orgcad9aed}
 
 You cannot use an org-mode header here.
 If you do, it trashes the table of contents for the apa6 document class.
@@ -49,7 +49,7 @@ You wouldn't run lines of code together in a production codebase, so don't run s
 Latex and org-mode both interpret a single empty line as a paragraph break, so the fact that your source document is 1 sentence per line will not be visible to anybody other than you.
 
 \cite{devlin2019}
-\#\#+latex: \printbibliography
-\bibliographystyle{plain}
-\bibliography{bibliography}
+\printbibliography
+@\#+latex: \bibliographystyle{plain}
+@\#+latex: \bibliography{bibliography}
 \end{document}
