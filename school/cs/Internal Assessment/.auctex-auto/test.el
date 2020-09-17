@@ -31,8 +31,7 @@
     "capt-of"
     "hyperref")
    (LaTeX-add-labels
-    "sec:org9a43bc4"
-    "sec:orge568abb")
+    "sec:org6a3d117")
    (LaTeX-add-bibliographies
     "bibliography"))
  :latex)

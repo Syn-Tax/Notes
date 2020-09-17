@@ -1,7 +1,7 @@
 #+TITLE: Test
 #+AUTHOR: <Your Name Here
 #+BIBLIOGRAPHY: bibliography.bib
-#+latex_header: \usepackage[citestyle=authoryear-icomp,bibstyle=authoryear, hyperref=true,backref=true,maxcitenames=3,url=true,backend=biber,natbib=true] {biblatex}
+#+latex_header: \usepackage[bibstyle=numeric, hyperref=true,backref=true,maxcitenames=3,url=true,backend=biber,natbib=true] {biblatex}
 #+latex_header: \addbibresource{bibliography.bib}
 
 * Abstract
@@ -18,3 +18,4 @@ You wouldn't run lines of code together in a production codebase, so don't run s
 Latex and org-mode both interpret a single empty line as a paragraph break, so the fact that your source document is 1 sentence per line will not be visible to anybody other than you.
 
 cite:devlin2019
+#+latex: \printbibliography
