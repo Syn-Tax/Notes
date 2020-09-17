@@ -1,4 +1,4 @@
-% Created 2020-09-17 Thu 23:10
+% Created 2020-09-17 Thu 23:12
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -14,9 +14,8 @@
 \usepackage{amssymb}
 \usepackage{capt-of}
 \usepackage{hyperref}
-\usepackage[english]{babel}
-\usepackage[style=apalike,backend=biber] {biblatex}
 \bibliography{bibliography}
+\bibliographystyle{plain}
 \author{<Your Name Here}
 \date{\today}
 \title{Test}
@@ -32,9 +31,11 @@
 \maketitle
 \tableofcontents
 
+\#\#+latex\textsubscript{header}: \usepackage[english]{babel}
+\#\#+latex\textsubscript{header}: \usepackage[style=ieee,backend=biber] \{biblatex\}
 
 \section{Abstract}
-\label{sec:org50e9a80}
+\label{sec:org031c214}
 
 You cannot use an org-mode header here.
 If you do, it trashes the table of contents for the apa6 document class.
