@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber test"] 0 "test.bcf" "test.bbl" "test" 0
+["biber test"] 0 "test.bcf" "test.bbl" "test" 1600377875
   "bibliography.bib" 1600374110 12695 266a208a236c2392b4beee1e167afe96 ""
-  "test.bcf" 0 -1 0 "pdflatex"
+  "test.bcf" 1600377830 100136 086e3878955c2e3b2ef3ebdc5e0c963c "pdflatex"
   (generated)
   "test.blg"
   "test.bbl"
-["pdflatex"] 1600377801 "test.tex" "test.pdf" "test" 1600377801
+["pdflatex"] 1600377875 "test.tex" "test.pdf" "test" 1600377875
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1591545468 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1095.tfm" 1591545468 3584 21b378cca2e40816b0e6d74a4dc98f04 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm" 1591545468 3584 13049b61b922a28b158a38aeff75ee9b ""
@@ -104,15 +104,15 @@
   "/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty" 1591524854 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1591545468 33301 a3134070eacafb10b1f371612ce2650d ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1600343875 2514050 2c82612a252d89c15fd8889e9374b201 ""
-  "test.aux" 1600377247 1595 0a2e7991777b0288e902e8e35553f585 "pdflatex"
+  "test.aux" 1600377830 767 672c2e1cde638164b7231a42b815c710 "pdflatex"
   "test.bbl" 1600377362 466 f7f239c736cf01ac6ce7bd829f9b3c7b "biber test"
-  "test.out" 0 -1 0 "pdflatex"
-  "test.tex" 1600377801 1633 51a9d5d26a1d12207953ab6a76feba01 ""
-  "test.toc" 0 -1 0 "pdflatex"
+  "test.out" 1600377830 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "test.tex" 1600377875 1601 f9d303f6180302ac1305c529ac3f2adb ""
+  "test.toc" 1600377830 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "test.toc"
-  "test.out"
-  "test.bcf"
-  "test.log"
-  "test.pdf"
   "test.aux"
+  "test.pdf"
+  "test.bcf"
+  "test.out"
+  "test.log"
