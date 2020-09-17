@@ -2,7 +2,6 @@
 #+AUTHOR: <Your Name Here
 bibliography:bibliography.bib
 
-#+BEGIN_ABSTRACT
 
 * Abstract
 
@@ -16,6 +15,5 @@ A single English sentence is similar to a single line of code.
 You wouldn't run lines of code together in a production codebase, so don't run sentences together in a VC'ed text document.
 
 Latex and org-mode both interpret a single empty line as a paragraph break, so the fact that your source document is 1 sentence per line will not be visible to anybody other than you.
-#+END_ABSTRACT
 
 cite:devlin2019
