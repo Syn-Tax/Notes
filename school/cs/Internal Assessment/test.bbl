@@ -1,9 +1,9 @@
 \begin{thebibliography}{1}
+\newcommand{\enquote}[1]{``#1''}
 
 \bibitem{devlin2019}
-J.~Devlin, M.-W. Chang, K.~Lee, and K.~Toutanova.
-\newblock {{BERT}}: {{Pre}}-training of {{Deep Bidirectional Transformers}} for
-  {{Language Understanding}}.
-\newblock {\em arXiv:1810.04805 [cs]}, May 2019.
+Devlin, J., Chang, M.-W., Lee, K., and Toutanova, K., \enquote{{{BERT}}:
+  {{Pre}}-Training of {{Deep Bidirectional Transformers}} for {{Language
+  Understanding}},} {\em arXiv:1810.04805 [cs]\/}, May 2019.
 
 \end{thebibliography}
