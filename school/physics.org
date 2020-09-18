@@ -100,6 +100,8 @@ ACCURACY & PRESICION
 - Accurate measurements are close to the true value. They have low systematic error
 - Repeated readings of precise measurements have the same value, they have low random error
 *** Experimental Uncertainties - the final destination
+- The point of experiments
+  + Establishing or verifying the relationship between variables (i.e. testing an equation)
 ** Units
 - mechanical horsepower
 - coulomb per second
