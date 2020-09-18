@@ -99,6 +99,7 @@ TYPES OF ERRORS
 ACCURACY & PRESICION
 - Accurate measurements are close to the true value. They have low systematic error
 - Repeated readings of precise measurements have the same value, they have low random error
+*** Experimental Uncertainties - the final destination
 ** Units
 - mechanical horsepower
 - coulomb per second
