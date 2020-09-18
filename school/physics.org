@@ -102,6 +102,7 @@ ACCURACY & PRESICION
 *** Experimental Uncertainties - the final destination
 - The point of experiments
   + Establishing or verifying the relationship between variables (i.e. testing an equation)
+  + Determining the value of a constant
 ** Units
 - mechanical horsepower
 - coulomb per second
