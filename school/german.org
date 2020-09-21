@@ -46,13 +46,19 @@ In der DDR lebten die meisten ziemlich gleich also sie wohnten in einer wohnung 
 7. der zugang
 8. B
 ** Textverstaendnis
-a.
+a. 10
 b. 1
-c.
-d.
-e.
-f.
+c. 12
+d. 11
+e. 8
+f. 7
 g. 2
+h. 6
+i. 3
+j. 9
+k. 4
+l. 5
+m. 13
 * Erfarungen 2:2 eine kulinarische Reise
 * Erfarungen 2:3 Feste und Traditionen
 * Kommunikation und Medien - Fernsehen, Kino, Werbung
