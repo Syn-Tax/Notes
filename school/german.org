@@ -73,6 +73,7 @@ m. 13
 ** Tests
 *** 1
 **** Reading
+***** Text A
 1. B???
 2. Sie sind immer in Bewegung, immer unterwegs
 3. Sabine Dahinden feiert fast glaichzeitig ihren 49. geburtstag
@@ -86,6 +87,11 @@ m. 13
 11. vor
 12. auch
 13. sobald
+***** Text B
+1. B
+2. Maerchen
+3. er baut eine Pfedrerennbahn???
+4. Trickaufnahmen
 * Hausaufgaben
 ** Aug
 *** DONE Das Ding wass per email geschiged worde lesen
