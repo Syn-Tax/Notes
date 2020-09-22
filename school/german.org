@@ -69,6 +69,9 @@ m. 13
 * Freizeit: Fussball - eine Maenner domaene?
 * Identitaet 1:4 Wir und die Anderen
 * Erfahrungen 2:1 Praegende Einfluesse
+* HL
+** Tests
+*** 1
 * Hausaufgaben
 ** Aug
 *** DONE Das Ding wass per email geschiged worde lesen
@@ -138,4 +141,4 @@ Alex and Denis (a collegue) become directors of an invented truth: Erich Honecke
   + Als die Grenzen wieder offen wahren und die Ostdeutschen im westen gegangen sind gab es viele unfalle weil in Ostdeutschland als mann auf die autobahn fuhre ist mann angehalten und fuer eine luecke gewartet und dann wieder loss gefahren. und dann such konneten die Trabbis nicht so gut beschloinigen als die westlichen autos.
 - Das Sandmaennchen kann man immernoch auf den kinder fehrnsehkanalen sehen
 - Die Ostdeutschen Ampelmaenner gibt es auch immernoch in ost und west Berlin
-*** TODO Read Pg 18-30 in the play thingy
+*** DONE Read Pg 18-30 in the play thingy
