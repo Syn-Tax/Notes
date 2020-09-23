@@ -231,6 +231,7 @@ All countries have an uneven population distribution which is mostly due to ther
 - it doesn't measure what the government does but rather what actually happens within that country
 - plotting SPI against GDP there is a lot of noise around a regression line
 - for poorer countres the line is really steep
+- It can be used at any scale
 ** 1.2
 ** 1.3
 * Unit 2: Core: Global climate - vulnerability & resilience
