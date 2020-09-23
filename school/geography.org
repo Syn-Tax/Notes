@@ -72,9 +72,8 @@ e.g. Japan, Australia, The Netherlands
 - the big thing for the rural poor is getting a bicycle due to faster and more efficient transportation they are therefore able to make more money
 - Extreme poverty seems to perpetuate
 ** 1.1 Population and Economic development patterns
-*** Population and Economic Development patterns
-**** Figure 1.1 PG 397 course companion
-***** 10 biggest populations
+*** Figure 1.1 PG 397 course companion
+**** 10 biggest populations
 1. China
 2. India
 3. United States
@@ -85,7 +84,7 @@ e.g. Japan, Australia, The Netherlands
 8. Bangladesh
 9. Russia
 10. Mexico
-***** Biggest Megacities
+**** Biggest Megacities
 1. Tokyo
 2. Dheli
 3. Shanghi
@@ -96,15 +95,15 @@ e.g. Japan, Australia, The Netherlands
 8. Beijing
 9. Dhaka
 10. Osaka
-****** Definition
+***** Definition
 Cities whose population is greater than 10 million
 City defined as the administrative district of a city
-**** What affects where people live?
-***** Population density
+*** What affects where people live?
+**** Population density
 [[https://i.imgur.com/IaRlRdS.png]]
-****** Physical factors
+***** Physical factors
 These mostly have to do with the ability to grow food
-******* Climate
+****** Climate
 - This would have to do with the climates required for efficient agriculture
 - It is physical due to the fact that it cannot be controlled by humans
 - It can be considered both an attrector if the climate of that particular area is favourable either for tourism or for agriculture or a deterrant if the climate is unfavourable
@@ -112,38 +111,38 @@ EG:
  - extreme drought
  - extreme cold
  - mild climates
-******* Landscape
+****** Landscape
 - The landscape will again have an impact on food production and on communications
 EG:
  - moutinous
  - flat
  - grassland
  - forest
-******* Resources
+****** Resources
 - This would mostly have an impact on the economic growth of a region as long as it has the technology to exploit those resources
 EG:
  - Coal
  - Oil
  - Forest
-******* Soil
+****** Soil
 - Mostly for agriculture again
 EG:
  - soils good for agriculture
-******* Vegetation
+****** Vegetation
 - affected by the landscape & climate, can affect which crops can be grown
-******* Water
+****** Water
 - potable vs non-potable water
 - water for cooling industrial equipment
 - transport
-******* Accessibility
+****** Accessibility
 - mode and frequency of transport
-****** Human factors
-******* Government policies
-******* Disease
-******* Development
-******* Culture
-******* Comunication
-**** How do we classify the world? (economic)
+***** Human factors
+****** Government policies
+****** Disease
+****** Development
+****** Culture
+****** Comunication
+*** How do we classify the world? (economic)
 Economic classifications
 - At it's most basic teh world can be divided into rich & poor
   + There is evidence to suggest that the rich are getting richer and the poor are getting relatively poorer
@@ -164,15 +163,15 @@ Economic classifications
     - Centrally planned economies (CPEs) such as North Korea or former USSR, these are socialist countries under strict governmental conrtol, many former communist countries remain in this category.
     - Oil-rich countries such as Saudi Arabia, High GNP per capita although not distributed evenly
   + Recently industrializing countries (RICs) shuch as Chile
-**** Will the global population surpass 10 billion by 2100
+*** Will the global population surpass 10 billion by 2100
 - until now yes
 - recent research shows it might actually start shrinking well before 2100
 -
-**** Sectors of industry
+*** Sectors of industry
 - LIC's primary industry is usually the primary sector
 - MIC's usually have more of a balance between tertiary and the others
 - HIC's usually have mostly tertiary industry
-**** Core-Periphery Model
+*** Core-Periphery Model
 [[https://kognity-prod.imgix.net/media/edusys_2/content_uploads/1.1.6.2.48c8ea762abde28a3a91.png]]
 - Developed by John Friedmann in 1963
 - It had the intention of explaining spacial differences
@@ -197,27 +196,26 @@ Economic classifications
   + a lack of jobs that drives out-migration
   + resources moving from the periphery the core to support industrial growth
   + lower levels of literacy skills
-**** Social Progress Imperative
-***** What is it?
+*** Social Progress Imperative
+**** What is it?
 - Social progress is defined as the capacity of a society to meet the basic human needs, establish the building blocks to allow citizens and communities to enhance and sustain the quality of their lives and create the potential for individuas to reach their full potential
 - The SP index combines 50 different social and environmental indicators to quantify social progress (it doesn't measure happiness or life satisfaction focusing on actual life outcomes)
 - This started with a National Income report presented to the US congress which later became GDP
   + In the first report it states that GDP is a tool to measure an economy but not wellbeing, we ignored it
-***** Who is behind it?
+**** Who is behind it?
 - The Social Progress Imperative is a non-profit organisation which measures social progress to improve the social and environmental conditions in various countries and across the planet
-***** Advantages
+**** Advantages
 - they are basing it on 4 principles:
   1. actionable
   2. relevant to all communities
   3. Exclusive of social and environmental factors
   4. focus on outcomes not inputs
--
-**** Questions
-***** Why does the author state that brexit will be a bad Idea?
+*** Questions
+**** Why does the author state that brexit will be a bad Idea?
 Tibor Feher's argument is that "Brexit is an illogical move" because of work previously in the paper where he states that the core of Europe is about a 720km radius around Brussels, the 'capital of Europe'. The reason for this distance is that that is the distance one truck can cover in one working day without breaking EU regulations with an average speed of 90 km/h, any further and it would require either to stop the truck for multiple hours, another driver or violating the rules which all add to the cost. Using this definition of the core London is within the core and the whole of England and Wales are within the centre as defined previously in the paper as a 1440km radius around Brussels. This implies that the impact on local economies due to brexit will mostly be felt in the south-east of England and have less of an impact further north, this also reflects a core-periphery model of only the UK rather than the whole of Europe. The author also states that "the ideal currency union (euro) for the [core] would be Benelux, Germany, France, UK, Switzerland, Austria, Denmark and probably Czechia" which indicates that the author is advocating the euro as a common currency for the european centre as defined above. In conclusion the author states that Brexit is an illogical move because London is a part of the economic core of Europe as defined by a 720km radius around Brussels.
-**** Using an example that you have studied, explain three distinct physical reasons why there is an uneven population distribution?
+*** Using an example that you have studied, explain three distinct physical reasons why there is an uneven population distribution?
 All countries have an uneven population distribution which is mostly due to there being larger population centres which are usually in prime locations for an urban core i.e. having good transport links, having good natural resources, having the ability to communicate with other population centres. In the UK this can be seen with the major hubs for industry during the industrial revolution being further south in the country such as London, Birmingham etc. These industrial hubs existed because of good transport links which in those days required access by boat so often canals were built which therefore require fairly flat land. London had direct access to a wide, flat river which easily allowed boats and larger ships to enter into the city. The other larger population centres in the UK were mostly due to natural resources e.g. mining (usually in smaller towns but transported to larger population centres, such as Newcastle, for both processing and shipment further afield.) Fewer settlements can be seen in places such as Scotland and Wales where the terrain is much more mountainous making agriculture and transport more difficult. Another physical factor in determining the location of population centres is how well the local land can be built upon which is why there aren't many larger cities in deserts since it is more difficult to build on and therefore the cost of housing and the technology required in those ares rises substantially as opposed to flatter more arable land which is easier to build on.
-**** Social progress imperative TED Talk
+*** Social progress imperative TED Talk
 - In 1934 the GDP became a thing in a report brought by Simon Kuznets to the US congress titled national income 1929-32
 - this is now how we define teh development of a country
   + GDP became so powerful because the government didn't have data and it geve them data
@@ -233,7 +231,7 @@ All countries have an uneven population distribution which is mostly due to ther
 - for poorer countres the line is really steep
 - It can be used at any scale
 - countries with more GDP generally use it less effectively to increase SP
-** 1.2
+* 1.2
 ** 1.3
 * Unit 2: Core: Global climate - vulnerability & resilience
 * Option D: Geophysical Hazardst
