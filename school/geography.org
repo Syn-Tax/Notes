@@ -67,6 +67,7 @@ TFR is the average number of births per thousand women of childbearing age. In g
 - Economic prosperity
 - The need for children
 *** Life expectancy
+it is the average number of years that a person can be expected to live, usually from birth.
 ** Don't Panic -- Hans Rosling showing the facts about population Notes :documentary:
 - population grew slowly until 1800 where pop became 1 billion
 - with the industrial revolution it rose exponentially to 2 billion in just 100 years
