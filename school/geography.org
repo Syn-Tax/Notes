@@ -248,7 +248,8 @@ All countries have an uneven population distribution which is mostly due to ther
 |                                          | there were restrictions on black people entering "white" |
 |                                          | towns, a policy known as "influx control"                |
 |------------------------------------------+----------------------------------------------------------|
-| industrial cities are by the coast       |                                                          |
+| industrial cities are by the coast       | after apartheid the black people moved back to homelands |
+|                                          | & cities                                                 |
 |------------------------------------------+----------------------------------------------------------|
 | 1990-95 10m people moved                 |                                                          |
 | 1995-2000 32m                            |                                                          |
@@ -263,6 +264,14 @@ All countries have an uneven population distribution which is mostly due to ther
 | In Shenzhen the population was afew      |                                                          |
 | thousand it is now about 15 million      |                                                          |
 |------------------------------------------+----------------------------------------------------------|
+
+**** Synthesis and evaluation
+Both physical and human factors affect population distribution.
+Initially, physical factors were more important, for example access
+to water and fertile soils. Although these are still important, human
+factors such as accessibility and potential for trade have become more
+important over time. Population density is normally shown using
+choropleth maps, while migration is often shown using ow maps.
 ** 1.2
 ** 1.3
 * Unit 2: Core: Global climate - vulnerability & resilience
