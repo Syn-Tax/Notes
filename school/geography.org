@@ -294,7 +294,12 @@ choropleth maps, while migration is often shown using flow maps.
 ** 1.2 Changing populations and places
 *** Demographic transition model
 [[https://i.imgur.com/SIj3521.png]]
-
+**** Stage 1
+- high birth and death rates
+- variable birth and death rates
+- population growth fluctuates
+- no countries only som eprimitive tribes still at this stage
+- UK at this stage until about 1750
 ** 1.3
 * Unit 2: Core: Global climate - vulnerability & resilience
 * Option D: Geophysical Hazardst
