@@ -46,6 +46,7 @@ In der DDR lebten die meisten ziemlich gleich also sie wohnten in einer wohnung 
 7. der zugang
 8. B
 ** Textverstaendnis
+*** 1
 a. 10
 b. 1
 c. 12
@@ -59,6 +60,15 @@ j. 9
 k. 4
 l. 5
 m. 13
+*** 2
+a. vi
+b. v
+c. viii
+d. vii
+e. ii
+f. iii
+g. iv
+h. i
 * Erfarungen 2:2 eine kulinarische Reise
 * Erfarungen 2:3 Feste und Traditionen
 * Kommunikation und Medien - Fernsehen, Kino, Werbung
@@ -99,7 +109,7 @@ m. 13
 9. B
 10. B
 **** Writing (Q5)
-Es gibt viele Argumente fuer und gegen die Fehrnkurse. Also fangen wir mal ann mit den Proargumente: 1) es braucht keine schulgebaude weil naturlich alle von zuhause arbeiten 2) man kann von ueberall in der Welt dann studieren und damit koennten wir viel einfacher schueler aus anderen laendan einnehmen 3) Es ist besser fuer die Umwelt weil wir dan viel weniger papier brauchen und wir benutzen nicht so viel Benzien fuer die Autos und die Schulbuesse 4) es gibt auch naturlich kein Kontakt zwischen menschen also wenn es aus irgendeinem Grund eine Pandemie geben sollteist es viel einfacher daran zu adaptieren. Aber so gut wie das alles klingt gibt es auch naturlich Argumente dagegen: 1) wenn man von zu Hause arbeitest dan gibt es nicht so richtig eine Grenze zwischen Arbeit und Spass wie es normalerweise gibt also ist es wiel schwieriger sich richtig su Konzentrieren 2) so gut wie die 'Video Chat' Programme Heute sind koennen sie immernoch nicht richtige sozialische interactionen ersetzen damit wird es wieder schwieriger effektiv zu lernen und schwieriger effektiv zu lehren 3) es ist schwieriger ohne spezialisierte Technologie mit der hand zu schreiben und das auf Papier zu schreiben und dann ein Photo zu machen und es per Email zu schiken macht es schwieriger zu lesen und damit schwieriger zu korregieren. Persoenlich glaube ich das es nicht so eine gute idee ist weil man muss irgendwie ein Sozialverhalten grunden in der Schule und das wirt wiel schwieriger wenn alles kontaktlos ist. Die Meisten von den Proargumente kann man auch in der Schule machen wie weniger Papier zu benutzen und mehr mit dem Fahrrad zur Schule zu fahren und damit weniger Benzien verbrauchen.
+Es gibt viele Argumente fuer und gegen die Fehrnkurse. Also fangen wir mal ann mit den Proargumente: 1) es braucht keine schulgebaude weil naturlich alle von zuhause arbeiten 2) man kann von ueberall in der Welt dann studieren und damit koennten wir viel einfacher schueler aus anderen laendan einnehmen 3) Es ist besser fuer die Umwelt weil wir dan viel weniger papier brauchen und wir benutzen nicht so viel Benzien fuer die Autos und die Schulbuesse 4) es gibt auch naturlich kein Kontakt zwischen menschen also wenn es aus irgendeinem Grund eine Pandemie geben sollteist es viel einfacher daran zu adaptieren. Aber so gut wie das alles klingt gibt es auch naturlich Argumente dagegen: 1) wenn man von zu Hause arbeitest dan gibt es nicht so richtig eine Grenze zwischen Arbeit und Spass wie es normalerweise gibt also ist es wiel schwieriger sich richtig su Konzentrieren 2) so gut wie die 'Video Chat' Programme Heute sind koennen sie immernoch nicht richtige sozialische interactionen ersetzen damit wird es wieder schwieriger effektiv zu lernen und schwieriger effektiv zu lehren 3) es ist schwieriger ohne spezialisierte Technologie mit der hand zu schreiben und das auf Papier zu schreiben und dann ein Photo zu machen und es per Email zu schiken macht es schwieriger zu lesen und damit schwieriger zu korregieren. Persoenlich glaube ich das es nicht so eine gute idee ist weil man muss irgendwie ein Sozialverhalten grunden in der Schule und das wirt wiel schwieriger wenn alles kontaktlos ist. Die Meisten von den Proargumente kann man auch in der Schule machen wie weniger Papier zu benutzen und mehr mit dem Fahrrad zur Schule zu fahren und damit weniger Benzien verbrauchen
 * Hausaufgaben
 ** Aug
 *** DONE Das Ding wass per email geschiged worde lesen
