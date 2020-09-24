@@ -50,6 +50,7 @@ e.g. Japan, Australia, The Netherlands
 - unregulated usually illegal
 - Doesn't count towards that countries GDP
 *** Natural increase
+It is calculated by subtracting the crude death rate from the crude birth rate. It is usually expressed as a percentage. Natural decrease occurs when the death rate exceeds the birth rate
 *** Doubling time
 *** Population momentum
 *** population projection
