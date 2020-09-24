@@ -55,7 +55,8 @@ It is calculated by subtracting the crude death rate from the crude birth rate. 
 The number of years for a population to double It is found by dividing 70 by the rate of natural increase. expressed in years
 *** Population momentum
 it is the tendancy for a population to grow despite a fall in the birth rate or fertility levels. It occurs because of a relatively high concentration of people in the pre-childbearing and the childbearing years.
-*** population projection
+*** Population projection
+they are predictions about the future population based on trends in fertility, mortality and migration
 *** Total fertility rate (TFR)
 *** Life expectancy
 ** Don't Panic -- Hans Rosling showing the facts about population Notes :documentary:
