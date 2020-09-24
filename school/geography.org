@@ -58,6 +58,13 @@ it is the tendancy for a population to grow despite a fall in the birth rate or 
 *** Population projection
 they are predictions about the future population based on trends in fertility, mortality and migration
 *** Total fertility rate (TFR)
+- The status of women
+- Level of education and material ambition
+- Location of residence
+- Religion
+- Health of the mother
+- Economic prosperity
+- The need for children
 *** Life expectancy
 ** Don't Panic -- Hans Rosling showing the facts about population Notes :documentary:
 - population grew slowly until 1800 where pop became 1 billion
