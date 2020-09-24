@@ -300,6 +300,27 @@ choropleth maps, while migration is often shown using flow maps.
 - population growth fluctuates
 - no countries only som eprimitive tribes still at this stage
 - UK at this stage until about 1750
+**** Stage 2
+Early expanding:
+- birth rates remains high but the death rate comes down rapidly
+- Afghanistan, Sudan and Libya are at this stage
+- UK passed through this stage by 1850
+**** Stage 3
+Late expanding:
+- birth rate drops and the death rate remains low
+- population growth continues but at a smaller rate
+- Brazil and Argentina are at this stage
+- UK passed through in 1950
+**** Stage 4
+Low and variable:
+- birth rates and death rates are low and variable
+- population growth fluctuates
+- UK and most developed countries are at his stage
+**** Stage 5
+Low declining:
+- the birth rate is lower than the death rate
+- the population declines
+- Japan is at this stage
 ** 1.3
 * Unit 2: Core: Global climate - vulnerability & resilience
 * Option D: Geophysical Hazardst
