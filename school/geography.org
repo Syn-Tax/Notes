@@ -231,6 +231,8 @@ All countries have an uneven population distribution which is mostly due to ther
 - for poorer countres the line is really steep
 - It can be used at any scale
 - countries with more GDP generally use it less effectively to increase SP
+*** Internal migration
+| China |
 ** 1.2
 ** 1.3
 * Unit 2: Core: Global climate - vulnerability & resilience
