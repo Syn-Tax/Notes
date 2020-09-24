@@ -49,6 +49,12 @@ e.g. Japan, Australia, The Netherlands
 *** Informal sector
 - unregulated usually illegal
 - Doesn't count towards that countries GDP
+*** Natural increase
+*** Doubling time
+*** Population momentum
+*** population projection
+*** Total fertility rate (TFR)
+*** Life expectancy
 ** Don't Panic -- Hans Rosling showing the facts about population Notes :documentary:
 - population grew slowly until 1800 where pop became 1 billion
 - with the industrial revolution it rose exponentially to 2 billion in just 100 years
@@ -273,6 +279,7 @@ factors such as accessibility and potential for trade have become more
 important over time. Population density is normally shown using
 choropleth maps, while migration is often shown using flow maps.
 ** 1.2 Changing populations and places
+
 ** 1.3
 * Unit 2: Core: Global climate - vulnerability & resilience
 * Option D: Geophysical Hazardst
