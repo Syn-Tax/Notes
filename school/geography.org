@@ -271,7 +271,7 @@ Initially, physical factors were more important, for example access
 to water and fertile soils. Although these are still important, human
 factors such as accessibility and potential for trade have become more
 important over time. Population density is normally shown using
-choropleth maps, while migration is often shown using ow maps.
+choropleth maps, while migration is often shown using flow maps.
 ** 1.2
 ** 1.3
 * Unit 2: Core: Global climate - vulnerability & resilience
