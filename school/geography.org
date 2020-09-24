@@ -58,7 +58,7 @@ it is the tendancy for a population to grow despite a fall in the birth rate or 
 *** Population projection
 they are predictions about the future population based on trends in fertility, mortality and migration
 *** Total fertility rate (TFR)
-TFR is the average number of births per thousand women of childbearing age. In general the highest fertlity rates are found among the poorest countries
+TFR is the average number of births per thousand women of childbearing age. In general the highest fertlity rates are found among the poorest countries. Most HICs have experiences much reduced fertility rates.
 - The status of women
 - Level of education and material ambition
 - Location of residence
