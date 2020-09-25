@@ -29,23 +29,23 @@ Wegend der ganze Coronageschichte dachte ich dass das meiste gut gelaufen ist al
 8) Estonia R
 9) Protugal R
 10) Norwegen R
-*** 3
-1) d
-2) a
-3) b
-4) c
-5) c
-6) c
-7) c
-8) a
-9) b
-10) a
-11) c
-12) c
-13) a
-14) c
-15) b
-16) c
+*** 3 14/16
+1) d F
+2) a R
+3) b R
+4) c R
+5) c R
+6) c R
+7) c R
+8) c R
+9) b F
+10) a F
+11) c R
+12) c R
+13) b R
+14) c R
+15) b R
+16) c R
 * Erfarungen: Deutsche Geschichte - getrenntes Deutchland
 ** Goodbye Lenin
 *** 1a
