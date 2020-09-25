@@ -18,17 +18,17 @@ Wegend der ganze Coronageschichte dachte ich dass das meiste gut gelaufen ist al
 8) Italien R
 9) Frankreich R
 10) Polen R
-*** 2
-1) Griechenland
-2) Sweden
-3) Island
-4) Kroatien
-5) Irland
-6) Schweiz
-7) Deutschland
-8) Estonia
-9) Vatican
-10) Norwegen
+*** 2 10/10
+1) Griechenland R
+2) Sweden R
+3) Island R
+4) Kroatien R
+5) Irland R
+6) Schweiz R
+7) Deutschland R
+8) Estonia R
+9) Protugal R
+10) Norwegen R
 *** 3
 1) d
 2) a
