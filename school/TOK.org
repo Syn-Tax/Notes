@@ -1,4 +1,5 @@
 #+TITLE: Theory of knowledge
+#+STARTUP: fold
 
 * Knowledge & the Knower
 - underpinned by the question how do we know stuff
