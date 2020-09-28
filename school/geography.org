@@ -321,6 +321,7 @@ Low declining:
 - the birth rate is lower than the death rate
 - the population declines
 - Japan is at this stage
+*** Population Pyramids
 ** 1.3
 * Unit 2: Core: Global climate - vulnerability & resilience
 * Option D: Geophysical Hazardst
