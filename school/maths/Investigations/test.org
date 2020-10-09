@@ -1,0 +1,8 @@
+#+TITLE: Test
+#+STARTUP: latexpreview
+#+OPTIONS: date:nil
+#+OPTIONS: toc:nil
+
+\begin{equation}
+x=\sqrt{b}
+\end{equation}

@@ -321,6 +321,44 @@ Low declining:
 - the birth rate is lower than the death rate
 - the population declines
 - Japan is at this stage
+**** Examples
+***** Russia
+[[https://i.imgur.com/3xyj4an.png]]
+- it still bearn the scars of WWII in the older generations there are much fewer men than women
+- currently there is a fairly high birth rate however it is still quite low
+**** Gapminder
+- created by Ola/Anna/Hans Rosling
+- created to show that the world isn't really as bad as we think it is
+- no it is an addition
+*** The demographic dividend
+**** Benefits
+- it will result in an increase in the working population
+- the dependency ratio will drop dramatically i.e. more workers with fewer children & seniors
+- it will increase the countries GDP
+- it will increase the GDP per capita pulling more out of poverty
+- there will be an increase in savings as less money will have to be spent on children
+- Decreases in fertility rates will result in healthier women and fewer socio-economic pressures at home
+**** In which parts of the world have birth rates remained high (article & updated)
+***** Article
+- Rwanda
+- Ethiopia
+- i.e. sub-saharan africa
+***** Updated
+- Central & Western Africa
+**** Describe some of the successes of family planning programmes around the world
+Ethiopia has made considerable progress in improving family planning since 2000. This can be seen in that their use of contraceptive methods has increased from 6% in 2000 to 27% in 2012. Women were having an average of 6.7 children in 2000 which has dropped to 4.8 in 2012.
+**** In what ways is it possible to lower fertility and child mortality
+The main ways of lowering fertility and therefore child mortality are:
+- education especially secondary education for women
+  + the promotion of spacing between pregnancies which improves child health (children concieved less than two years after the previous birth have a substantially higher risk of death than others)
+- healthcare investments into child and maternal health
+- Comitting to voluntary family planning which would help achieve the demographic transition
+- investing in the reproductive health of married and unmarried youth which will improve both maternal and child health.
+**** Suggest reasons why Ethiopia is unlikely to achieve demographic dividend until 2030
+Ethiopia has only recently decreased it's infant mortality and it's demographics are still dominated by a base of young people. These young people will take time to age and enter the workforce at which point the birth rates should be lower therefore reducing the dependency ratio allowing them to make use of a demographic dividend.
+**** How did the demographic dividend enable the Asian Tigers to industrialise
+There are a multitude of reasons why South korea has been able to industrialise such as:
+- a decrease in fertility allowing for an increase in social mobility
 *** Population Pyramids
 **** Population pyramids: Powerful predictors of the future
 ** 1.3
