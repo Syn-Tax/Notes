@@ -1,0 +1,22 @@
+#+TITLE: Uni
+
+* Applying to Scottish Uni's webinar
+** Ucas
+- max 5 courses
+- follow school deadlines (latest 15th Jan)
+- Sections
+  + personal information
+  + choices
+  + education
+  + employment
+  + personal statement
+  + reference
+** Personal statement
+- 4000 character limit
+- contents:
+  + why you want to study those courses
+  + commitment & motivation
+  + a clear understanding of the subject
+  + hobbies & interests
+  + work experience
+  + relate things back to the subject choice
